@@ -1,0 +1,53 @@
+{
+	"reviews": [
+		{
+			"productId": "1",
+			"customerId": "101",
+			"rating": 4.5,
+			"comments": "Great product! It exceeded my expectations.",
+			"timestamp": "2023-06-15T10:30:00Z"
+		},
+		{
+			"productId": "1",
+			"customerId": "102",
+			"rating": 5,
+			"comments": "Excellent quality and fast shipping. Highly recommended!",
+			"timestamp": "2023-06-20T15:45:00Z"
+		},
+		{
+			"productId": "2",
+			"customerId": "101",
+			"rating": 3,
+			"comments": "The product is okay, but the packaging was damaged during shipping.",
+			"timestamp": "2023-06-18T09:15:00Z"
+		},
+		{
+			"productId": "3",
+			"customerId": "103",
+			"rating": 4,
+			"comments": "Good value for money. It serves its purpose well.",
+			"timestamp": "2023-06-22T14:20:00Z"
+		},
+		{
+			"productId": "3",
+			"customerId": "104",
+			"rating": 5,
+			"comments": "Impressive product! The build quality is excellent.",
+			"timestamp": "2023-06-23T16:55:00Z"
+		},
+		{
+			"productId": "4",
+			"customerId": "102",
+			"rating": 2.5,
+			"comments": "Disappointed with the product. It didn't meet my expectations.",
+			"timestamp": "2023-06-19T11:10:00Z"
+		},
+		{
+			"productId": "4",
+			"customerId": "105",
+			"rating": 4,
+			"comments": "Decent product with a reasonable price.",
+			"timestamp": "2023-06-24T08:40:00Z"
+		}
+	]
+}

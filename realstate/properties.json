@@ -1,0 +1,604 @@
+{
+	"properties": [
+		{
+			"id": "1",
+			"title": "Spacious Condo with Ocean View",
+			"description": "Beautiful condo with breathtaking ocean view. Features modern amenities and a large balcony.",
+			"price": 250000,
+			"bedrooms": 2,
+			"bathrooms": 2,
+			"squareFootage": 1200,
+			"location": {
+				"city": "Los Angeles",
+				"state": "California",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property1/image1.jpg",
+				"https://example.com/images/property1/image2.jpg",
+				"https://example.com/images/property1/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "2",
+			"title": "Charming Family Home",
+			"description": "Lovely family home with a spacious backyard and plenty of natural light. Perfect for families with kids.",
+			"price": 350000,
+			"bedrooms": 3,
+			"bathrooms": 2,
+			"squareFootage": 1800,
+			"location": {
+				"city": "San Francisco",
+				"state": "California",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property2/image1.jpg",
+				"https://example.com/images/property2/image2.jpg",
+				"https://example.com/images/property2/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "3",
+			"title": "Luxury Villa with Pool",
+			"description": "Exquisite villa with a private pool and stunning garden. Ideal for those seeking a luxurious lifestyle.",
+			"price": 850000,
+			"bedrooms": 4,
+			"bathrooms": 5,
+			"squareFootage": 4000,
+			"location": {
+				"city": "Miami",
+				"state": "Florida",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property3/image1.jpg",
+				"https://example.com/images/property3/image2.jpg",
+				"https://example.com/images/property3/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "4",
+			"title": "Cozy Cottage in the Woods",
+			"description": "A charming cottage surrounded by nature. Perfect for a peaceful retreat or a writer's getaway.",
+			"price": 180000,
+			"bedrooms": 1,
+			"bathrooms": 1,
+			"squareFootage": 800,
+			"location": {
+				"city": "Asheville",
+				"state": "North Carolina",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property4/image1.jpg",
+				"https://example.com/images/property4/image2.jpg",
+				"https://example.com/images/property4/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "5",
+			"title": "Modern Loft in the City",
+			"description": "Stylish loft with an open floor plan and contemporary design. Located in the heart of downtown.",
+			"price": 450000,
+			"bedrooms": 1,
+			"bathrooms": 1,
+			"squareFootage": 1000,
+			"location": {
+				"city": "New York",
+				"state": "New York",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property5/image1.jpg",
+				"https://example.com/images/property5/image2.jpg",
+				"https://example.com/images/property5/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "6",
+			"title": "Spacious Family House",
+			"description": "A comfortable family house with a large backyard and a cozy fireplace. Ideal for a growing family.",
+			"price": 320000,
+			"bedrooms": 4,
+			"bathrooms": 3,
+			"squareFootage": 2000,
+			"location": {
+				"city": "Austin",
+				"state": "Texas",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property6/image1.jpg",
+				"https://example.com/images/property6/image2.jpg",
+				"https://example.com/images/property6/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "7",
+			"title": "Lakefront Retreat",
+			"description": "A serene lakefront property with stunning views and a private dock. Perfect for nature lovers.",
+			"price": 550000,
+			"bedrooms": 3,
+			"bathrooms": 2,
+			"squareFootage": 1500,
+			"location": {
+				"city": "Seattle",
+				"state": "Washington",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property7/image1.jpg",
+				"https://example.com/images/property7/image2.jpg",
+				"https://example.com/images/property7/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "8",
+			"title": "Historic Townhouse",
+			"description": "A beautifully restored historic townhouse with classic architecture and modern amenities.",
+			"price": 650000,
+			"bedrooms": 3,
+			"bathrooms": 2,
+			"squareFootage": 1800,
+			"location": {
+				"city": "Boston",
+				"state": "Massachusetts",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property8/image1.jpg",
+				"https://example.com/images/property8/image2.jpg",
+				"https://example.com/images/property8/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "9",
+			"title": "Mountain View Retreat",
+			"description": "A cozy cabin with panoramic mountain views. Perfect for a peaceful getaway or a ski trip.",
+			"price": 280000,
+			"bedrooms": 2,
+			"bathrooms": 1,
+			"squareFootage": 1000,
+			"location": {
+				"city": "Denver",
+				"state": "Colorado",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property9/image1.jpg",
+				"https://example.com/images/property9/image2.jpg",
+				"https://example.com/images/property9/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "10",
+			"title": "Beachfront Villa",
+			"description": "A luxurious beachfront villa with private access to the beach and stunning ocean views.",
+			"price": 1200000,
+			"bedrooms": 5,
+			"bathrooms": 6,
+			"squareFootage": 5000,
+			"location": {
+				"city": "Honolulu",
+				"state": "Hawaii",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property10/image1.jpg",
+				"https://example.com/images/property10/image2.jpg",
+				"https://example.com/images/property10/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "11",
+			"title": "Modern City Apartment",
+			"description": "A sleek and modern apartment in a high-rise building with panoramic city views.",
+			"price": 380000,
+			"bedrooms": 2,
+			"bathrooms": 2,
+			"squareFootage": 1100,
+			"location": {
+				"city": "Chicago",
+				"state": "Illinois",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property11/image1.jpg",
+				"https://example.com/images/property11/image2.jpg",
+				"https://example.com/images/property11/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "12",
+			"title": "Rustic Farmhouse",
+			"description": "A charming farmhouse with rustic details and a spacious yard. Perfect for country living.",
+			"price": 320000,
+			"bedrooms": 3,
+			"bathrooms": 2,
+			"squareFootage": 1800,
+			"location": {
+				"city": "Nashville",
+				"state": "Tennessee",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property12/image1.jpg",
+				"https://example.com/images/property12/image2.jpg",
+				"https://example.com/images/property12/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "13",
+			"title": "Penthouse Suite",
+			"description": "A luxurious penthouse suite with floor-to-ceiling windows and stunning city skyline views.",
+			"price": 1200000,
+			"bedrooms": 3,
+			"bathrooms": 3,
+			"squareFootage": 2500,
+			"location": {
+				"city": "Toronto",
+				"state": "Ontario",
+				"country": "Canada"
+			},
+			"images": [
+				"https://example.com/images/property13/image1.jpg",
+				"https://example.com/images/property13/image2.jpg",
+				"https://example.com/images/property13/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "14",
+			"title": "Secluded Mountain Cabin",
+			"description": "A cozy cabin nestled in the mountains, surrounded by nature and breathtaking views.",
+			"price": 220000,
+			"bedrooms": 2,
+			"bathrooms": 1,
+			"squareFootage": 900,
+			"location": {
+				"city": "Vancouver",
+				"state": "British Columbia",
+				"country": "Canada"
+			},
+			"images": [
+				"https://example.com/images/property14/image1.jpg",
+				"https://example.com/images/property14/image2.jpg",
+				"https://example.com/images/property14/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "15",
+			"title": "Sleek Urban Studio",
+			"description": "A stylish and compact studio apartment in a trendy neighborhood with easy access to amenities.",
+			"price": 180000,
+			"bedrooms": 0,
+			"bathrooms": 1,
+			"squareFootage": 500,
+			"location": {
+				"city": "Montreal",
+				"state": "Quebec",
+				"country": "Canada"
+			},
+			"images": [
+				"https://example.com/images/property15/image1.jpg",
+				"https://example.com/images/property15/image2.jpg",
+				"https://example.com/images/property15/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "16",
+			"title": "Waterfront Townhome",
+			"description": "A stunning waterfront townhome with private boat dock and panoramic views of the bay.",
+			"price": 750000,
+			"bedrooms": 4,
+			"bathrooms": 3,
+			"squareFootage": 2200,
+			"location": {
+				"city": "Sydney",
+				"state": "New South Wales",
+				"country": "Australia"
+			},
+			"images": [
+				"https://example.com/images/property16/image1.jpg",
+				"https://example.com/images/property16/image2.jpg",
+				"https://example.com/images/property16/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "17",
+			"title": "Luxury Ski Chalet",
+			"description": "A luxurious ski chalet with direct access to the slopes and stunning mountain views.",
+			"price": 1500000,
+			"bedrooms": 5,
+			"bathrooms": 6,
+			"squareFootage": 4000,
+			"location": {
+				"city": "Zermatt",
+				"state": "Valais",
+				"country": "Switzerland"
+			},
+			"images": [
+				"https://example.com/images/property17/image1.jpg",
+				"https://example.com/images/property17/image2.jpg",
+				"https://example.com/images/property17/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "18",
+			"title": "Historic Mansion",
+			"description": "A grand historic mansion with ornate details and spacious rooms. A true architectural gem.",
+			"price": 3500000,
+			"bedrooms": 7,
+			"bathrooms": 8,
+			"squareFootage": 8000,
+			"location": {
+				"city": "London",
+				"state": "",
+				"country": "United Kingdom"
+			},
+			"images": [
+				"https://example.com/images/property18/image1.jpg",
+				"https://example.com/images/property18/image2.jpg",
+				"https://example.com/images/property18/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "19",
+			"title": "Beachfront Bungalow",
+			"description": "A cozy beachfront bungalow with stunning sunset views and direct access to the beach.",
+			"price": 500000,
+			"bedrooms": 2,
+			"bathrooms": 2,
+			"squareFootage": 1200,
+			"location": {
+				"city": "Bali",
+				"state": "",
+				"country": "Indonesia"
+			},
+			"images": [
+				"https://example.com/images/property19/image1.jpg",
+				"https://example.com/images/property19/image2.jpg",
+				"https://example.com/images/property19/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "20",
+			"title": "City View Penthouse",
+			"description": "An elegant penthouse with floor-to-ceiling windows offering breathtaking city views.",
+			"price": 2000000,
+			"bedrooms": 3,
+			"bathrooms": 4,
+			"squareFootage": 3000,
+			"location": {
+				"city": "Dubai",
+				"state": "",
+				"country": "United Arab Emirates"
+			},
+			"images": [
+				"https://example.com/images/property20/image1.jpg",
+				"https://example.com/images/property20/image2.jpg",
+				"https://example.com/images/property20/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "21",
+			"title": "Countryside Estate",
+			"description": "A sprawling estate in the countryside with expansive grounds, a private lake, and stables.",
+			"price": 5000000,
+			"bedrooms": 6,
+			"bathrooms": 7,
+			"squareFootage": 10000,
+			"location": {
+				"city": "Paris",
+				"state": "",
+				"country": "France"
+			},
+			"images": [
+				"https://example.com/images/property21/image1.jpg",
+				"https://example.com/images/property21/image2.jpg",
+				"https://example.com/images/property21/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "22",
+			"title": "Seaside Villa",
+			"description": "A luxurious seaside villa with a private pool, stunning views, and direct beach access.",
+			"price": 3000000,
+			"bedrooms": 4,
+			"bathrooms": 5,
+			"squareFootage": 4000,
+			"location": {
+				"city": "Cancun",
+				"state": "Quintana Roo",
+				"country": "Mexico"
+			},
+			"images": [
+				"https://example.com/images/property22/image1.jpg",
+				"https://example.com/images/property22/image2.jpg",
+				"https://example.com/images/property22/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "23",
+			"title": "Riverside Cottage",
+			"description": "A charming cottage nestled on the banks of a picturesque river. Perfect for fishing and relaxation.",
+			"price": 280000,
+			"bedrooms": 2,
+			"bathrooms": 1,
+			"squareFootage": 1000,
+			"location": {
+				"city": "Vancouver",
+				"state": "British Columbia",
+				"country": "Canada"
+			},
+			"images": [
+				"https://example.com/images/property23/image1.jpg",
+				"https://example.com/images/property23/image2.jpg",
+				"https://example.com/images/property23/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "24",
+			"title": "Historic Brownstone",
+			"description": "A beautifully preserved historic brownstone with period features and modern updates.",
+			"price": 1800000,
+			"bedrooms": 5,
+			"bathrooms": 4,
+			"squareFootage": 3500,
+			"location": {
+				"city": "New York",
+				"state": "New York",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property24/image1.jpg",
+				"https://example.com/images/property24/image2.jpg",
+				"https://example.com/images/property24/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "25",
+			"title": "Mountain Retreat",
+			"description": "A secluded mountain retreat with a cozy log cabin and breathtaking views of the surrounding peaks.",
+			"price": 400000,
+			"bedrooms": 3,
+			"bathrooms": 2,
+			"squareFootage": 1800,
+			"location": {
+				"city": "Denver",
+				"state": "Colorado",
+				"country": "United States"
+			},
+			"images": [
+				"https://example.com/images/property25/image1.jpg",
+				"https://example.com/images/property25/image2.jpg",
+				"https://example.com/images/property25/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "26",
+			"title": "Tropical Paradise",
+			"description": "A luxurious tropical villa surrounded by lush vegetation and just steps away from the beach.",
+			"price": 1500000,
+			"bedrooms": 4,
+			"bathrooms": 5,
+			"squareFootage": 3000,
+			"location": {
+				"city": "Bora Bora",
+				"state": "",
+				"country": "French Polynesia"
+			},
+			"images": [
+				"https://example.com/images/property26/image1.jpg",
+				"https://example.com/images/property26/image2.jpg",
+				"https://example.com/images/property26/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "27",
+			"title": "Historic Castle",
+			"description": "A majestic historic castle with towers, courtyards, and stunning views of the surrounding countryside.",
+			"price": 8000000,
+			"bedrooms": 10,
+			"bathrooms": 12,
+			"squareFootage": 15000,
+			"location": {
+				"city": "Edinburgh",
+				"state": "",
+				"country": "Scotland"
+			},
+			"images": [
+				"https://example.com/images/property27/image1.jpg",
+				"https://example.com/images/property27/image2.jpg",
+				"https://example.com/images/property27/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "28",
+			"title": "Urban Oasis",
+			"description": "An urban oasis with a modern townhouse and a private rooftop garden. A peaceful retreat in the city.",
+			"price": 1200000,
+			"bedrooms": 3,
+			"bathrooms": 3,
+			"squareFootage": 2000,
+			"location": {
+				"city": "Tokyo",
+				"state": "",
+				"country": "Japan"
+			},
+			"images": [
+				"https://example.com/images/property28/image1.jpg",
+				"https://example.com/images/property28/image2.jpg",
+				"https://example.com/images/property28/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "29",
+			"title": "Coastal Cottage",
+			"description": "A charming coastal cottage with a white picket fence, a cozy fireplace, and stunning ocean views.",
+			"price": 450000,
+			"bedrooms": 2,
+			"bathrooms": 2,
+			"squareFootage": 1200,
+			"location": {
+				"city": "Sydney",
+				"state": "New South Wales",
+				"country": "Australia"
+			},
+			"images": [
+				"https://example.com/images/property29/image1.jpg",
+				"https://example.com/images/property29/image2.jpg",
+				"https://example.com/images/property29/image3.jpg"
+			],
+			"availability": "available"
+		},
+		{
+			"id": "30",
+			"title": "Sky-High Penthouse",
+			"description": "A luxurious penthouse with floor-to-ceiling windows and breathtaking views of the city skyline.",
+			"price": 2500000,
+			"bedrooms": 4,
+			"bathrooms": 4,
+			"squareFootage": 3500,
+			"location": {
+				"city": "Shanghai",
+				"state": "",
+				"country": "China"
+			},
+			"images": [
+				"https://example.com/images/property30/image1.jpg",
+				"https://example.com/images/property30/image2.jpg",
+				"https://example.com/images/property30/image3.jpg"
+			],
+			"availability": "available"
+		}
+	]
+}

@@ -1,0 +1,72 @@
+[
+	{
+		"id": 1,
+		"name": "John Doe",
+		"email": "john.doe@example.com",
+		"role": "admin",
+		"enrolledCourses": [1, 2]
+	},
+	{
+		"id": 2,
+		"name": "Jane Smith",
+		"email": "jane.smith@example.com",
+		"role": "instructor",
+		"enrolledCourses": []
+	},
+	{
+		"id": 3,
+		"name": "David Johnson",
+		"email": "david.johnson@example.com",
+		"role": "student",
+		"enrolledCourses": [2]
+	},
+	{
+		"id": 4,
+		"name": "Sarah Williams",
+		"email": "sarah.williams@example.com",
+		"role": "student",
+		"enrolledCourses": []
+	},
+	{
+		"id": 5,
+		"name": "Michael Brown",
+		"email": "michael.brown@example.com",
+		"role": "student",
+		"enrolledCourses": [3]
+	},
+	{
+		"id": 6,
+		"name": "Emily Davis",
+		"email": "emily.davis@example.com",
+		"role": "student",
+		"enrolledCourses": []
+	},
+	{
+		"id": 7,
+		"name": "Daniel Martinez",
+		"email": "daniel.martinez@example.com",
+		"role": "student",
+		"enrolledCourses": [1]
+	},
+	{
+		"id": 8,
+		"name": "Olivia Taylor",
+		"email": "olivia.taylor@example.com",
+		"role": "student",
+		"enrolledCourses": []
+	},
+	{
+		"id": 9,
+		"name": "Matthew Anderson",
+		"email": "matthew.anderson@example.com",
+		"role": "student",
+		"enrolledCourses": [3]
+	},
+	{
+		"id": 10,
+		"name": "Ava Thomas",
+		"email": "ava.thomas@example.com",
+		"role": "student",
+		"enrolledCourses": []
+	}
+]

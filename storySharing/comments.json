@@ -1,0 +1,107 @@
+[
+	{
+		"id": 1,
+		"content": "Great story! I loved the adventure.",
+		"authorId": 1,
+		"storyId": 1,
+		"creationDate": "2023-07-10"
+	},
+	{
+		"id": 2,
+		"content": "The mystery kept me on the edge of my seat!",
+		"authorId": 2,
+		"storyId": 2,
+		"creationDate": "2023-07-09"
+	},
+	{
+		"id": 3,
+		"content": "The description of the lost city was fascinating.",
+		"authorId": 3,
+		"storyId": 3,
+		"creationDate": "2023-07-08"
+	},
+	{
+		"id": 4,
+		"content": "I wish I had a magical spellbook like that!",
+		"authorId": 4,
+		"storyId": 4,
+		"creationDate": "2023-07-07"
+	},
+	{
+		"id": 5,
+		"content": "The concept of time travel was mind-blowing.",
+		"authorId": 5,
+		"storyId": 5,
+		"creationDate": "2023-07-06"
+	},
+	{
+		"id": 6,
+		"content": "Arr, matey! The pirates were fierce!",
+		"authorId": 6,
+		"storyId": 6,
+		"creationDate": "2023-07-05"
+	},
+	{
+		"id": 7,
+		"content": "The enchanted forest was enchanting indeed!",
+		"authorId": 7,
+		"storyId": 7,
+		"creationDate": "2023-07-04"
+	},
+	{
+		"id": 8,
+		"content": "The haunted house gave me chills.",
+		"authorId": 8,
+		"storyId": 8,
+		"creationDate": "2023-07-03"
+	},
+	{
+		"id": 9,
+		"content": "The secret agent story was full of suspense.",
+		"authorId": 9,
+		"storyId": 9,
+		"creationDate": "2023-07-02"
+	},
+	{
+		"id": 10,
+		"content": "Lost in space...a thrilling adventure!",
+		"authorId": 10,
+		"storyId": 10,
+		"creationDate": "2023-07-01"
+	},
+	{
+		"id": 11,
+		"content": "I felt like I was on the treasure hunt too!",
+		"authorId": 1,
+		"storyId": 11,
+		"creationDate": "2023-06-30"
+	},
+	{
+		"id": 12,
+		"content": "The magical kingdom was a dream come true.",
+		"authorId": 2,
+		"storyId": 12,
+		"creationDate": "2023-06-29"
+	},
+	{
+		"id": 13,
+		"content": "Who was that mysterious stranger? Intriguing!",
+		"authorId": 3,
+		"storyId": 13,
+		"creationDate": "2023-06-28"
+	},
+	{
+		"id": 14,
+		"content": "The great escape was full of suspense and surprises.",
+		"authorId": 4,
+		"storyId": 14,
+		"creationDate": "2023-06-27"
+	},
+	{
+		"id": 15,
+		"content": "The forbidden temple gave me goosebumps!",
+		"authorId": 5,
+		"storyId": 15,
+		"creationDate": "2023-06-26"
+	}
+]

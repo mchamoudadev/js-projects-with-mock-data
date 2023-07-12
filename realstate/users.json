@@ -1,0 +1,49 @@
+{
+	"users": [
+		{
+			"id": "1",
+			"name": "Jane Doe",
+			"contact": {
+				"email": "jane.doe@example.com",
+				"phone": "+1 123-456-7890"
+			},
+			"savedProperties": ["3", "5", "7"]
+		},
+		{
+			"id": "2",
+			"name": "Alex Smith",
+			"contact": {
+				"email": "alex.smith@example.com",
+				"phone": "+1 987-654-3210"
+			},
+			"savedProperties": ["1", "4", "9"]
+		},
+		{
+			"id": "3",
+			"name": "Emily Johnson",
+			"contact": {
+				"email": "emily.johnson@example.com",
+				"phone": "+1 555-123-4567"
+			},
+			"savedProperties": ["2", "6", "8"]
+		},
+		{
+			"id": "4",
+			"name": "Michael Brown",
+			"contact": {
+				"email": "michael.brown@example.com",
+				"phone": "+1 111-222-3333"
+			},
+			"savedProperties": ["10", "11"]
+		},
+		{
+			"id": "5",
+			"name": "Olivia Davis",
+			"contact": {
+				"email": "olivia.davis@example.com",
+				"phone": "+1 999-888-7777"
+			},
+			"savedProperties": ["12", "13", "15"]
+		}
+	]
+}

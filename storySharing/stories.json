@@ -1,0 +1,122 @@
+[
+	{
+		"id": 1,
+		"title": "Adventure in the Mountains",
+		"content": "Once upon a time...",
+		"authorId": 1,
+		"creationDate": "2023-07-10",
+		"imageUrl": "https://example.com/images/adventure_mountains.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Mystery at the Manor",
+		"content": "In a dark and eerie mansion...",
+		"authorId": 2,
+		"creationDate": "2023-07-09",
+		"imageUrl": "https://example.com/images/mystery_manor.jpg"
+	},
+	{
+		"id": 3,
+		"title": "The Lost City",
+		"content": "Deep in the heart of the jungle...",
+		"authorId": 3,
+		"creationDate": "2023-07-08",
+		"imageUrl": "https://example.com/images/lost_city.jpg"
+	},
+	{
+		"id": 4,
+		"title": "The Magical Spellbook",
+		"content": "In a dusty old library...",
+		"authorId": 1,
+		"creationDate": "2023-07-07",
+		"imageUrl": "https://example.com/images/magical_spellbook.jpg"
+	},
+	{
+		"id": 5,
+		"title": "A Journey Through Time",
+		"content": "In a time machine...",
+		"authorId": 4,
+		"creationDate": "2023-07-06",
+		"imageUrl": "https://example.com/images/journey_time.jpg"
+	},
+	{
+		"id": 6,
+		"title": "Pirates of the Caribbean",
+		"content": "On a pirate ship sailing the seas...",
+		"authorId": 5,
+		"creationDate": "2023-07-05",
+		"imageUrl": "https://example.com/images/pirates_caribbean.jpg"
+	},
+	{
+		"id": 7,
+		"title": "The Enchanted Forest",
+		"content": "In a mystical forest filled with magical creatures...",
+		"authorId": 2,
+		"creationDate": "2023-07-04",
+		"imageUrl": "https://example.com/images/enchanted_forest.jpg"
+	},
+	{
+		"id": 8,
+		"title": "The Haunted House",
+		"content": "In a creepy old house on a hill...",
+		"authorId": 6,
+		"creationDate": "2023-07-03",
+		"imageUrl": "https://example.com/images/haunted_house.jpg"
+	},
+	{
+		"id": 9,
+		"title": "The Secret Agent",
+		"content": "In the world of spies and espionage...",
+		"authorId": 7,
+		"creationDate": "2023-07-02",
+		"imageUrl": "https://example.com/images/secret_agent.jpg"
+	},
+	{
+		"id": 10,
+		"title": "Lost in Space",
+		"content": "In a spaceship exploring the unknown...",
+		"authorId": 8,
+		"creationDate": "2023-07-01",
+		"imageUrl": "https://example.com/images/lost_space.jpg"
+	},
+	{
+		"id": 11,
+		"title": "The Treasure Hunt",
+		"content": "On a quest to find hidden treasure...",
+		"authorId": 3,
+		"creationDate": "2023-06-30",
+		"imageUrl": "https://example.com/images/treasure_hunt.jpg"
+	},
+	{
+		"id": 12,
+		"title": "The Magical Kingdom",
+		"content": "In a land of wizards and enchantment...",
+		"authorId": 9,
+		"creationDate": "2023-06-29",
+		"imageUrl": "https://example.com/images/magical_kingdom.jpg"
+	},
+	{
+		"id": 13,
+		"title": "The Mysterious Stranger",
+		"content": "A stranger arrived in town...",
+		"authorId": 5,
+		"creationDate": "2023-06-28",
+		"imageUrl": "https://example.com/images/mysterious_stranger.jpg"
+	},
+	{
+		"id": 14,
+		"title": "The Great Escape",
+		"content": "Trapped in a prison, they hatched a plan...",
+		"authorId": 10,
+		"creationDate": "2023-06-27",
+		"imageUrl": "https://example.com/images/great_escape.jpg"
+	},
+	{
+		"id": 15,
+		"title": "The Forbidden Temple",
+		"content": "In a forbidden temple guarded by ancient curses...",
+		"authorId": 7,
+		"creationDate": "2023-06-26",
+		"imageUrl": "https://example.com/images/forbidden_temple.jpg"
+	}
+]

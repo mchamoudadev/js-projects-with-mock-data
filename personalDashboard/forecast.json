@@ -1,0 +1,707 @@
+[
+	{
+		"location": "San Francisco, USA",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 70,
+				"low": 55,
+				"condition": "Partly Cloudy"
+			},
+			{
+				"day": "Tuesday",
+				"high": 72,
+				"low": 57,
+				"condition": "Sunny"
+			},
+			{
+				"day": "Wednesday",
+				"high": 68,
+				"low": 52,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 73,
+				"low": 56,
+				"condition": "Rain"
+			},
+			{
+				"day": "Friday",
+				"high": 69,
+				"low": 54,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Saturday",
+				"high": 71,
+				"low": 58,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Sunday",
+				"high": 75,
+				"low": 60,
+				"condition": "Foggy"
+			}
+		]
+	},
+	{
+		"location": "New York City, USA",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 72,
+				"low": 60,
+				"condition": "Partly Cloudy"
+			},
+			{
+				"day": "Tuesday",
+				"high": 75,
+				"low": 63,
+				"condition": "Sunny"
+			},
+			{
+				"day": "Wednesday",
+				"high": 70,
+				"low": 58,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 74,
+				"low": 61,
+				"condition": "Rain"
+			},
+			{
+				"day": "Friday",
+				"high": 68,
+				"low": 55,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Saturday",
+				"high": 72,
+				"low": 59,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Sunday",
+				"high": 76,
+				"low": 62,
+				"condition": "Foggy"
+			}
+		]
+	},
+	{
+		"location": "London, UK",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 64,
+				"low": 54,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Tuesday",
+				"high": 66,
+				"low": 55,
+				"condition": "Rain"
+			},
+			{
+				"day": "Wednesday",
+				"high": 62,
+				"low": 51,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Thursday",
+				"high": 65,
+				"low": 56,
+				"condition": "Sunny"
+			},
+			{
+				"day": "Friday",
+				"high": 61,
+				"low": 53,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Saturday",
+				"high": 63,
+				"low": 54,
+				"condition": "Foggy"
+			},
+			{
+				"day": "Sunday",
+				"high": 68,
+				"low": 58,
+				"condition": "Clear"
+			}
+		]
+	},
+	{
+		"location": "Paris, France",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 72,
+				"low": 57,
+				"condition": "Sunny"
+			},
+			{
+				"day": "Tuesday",
+				"high": 74,
+				"low": 59,
+				"condition": "Partly Cloudy"
+			},
+			{
+				"day": "Wednesday",
+				"high": 70,
+				"low": 55,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 75,
+				"low": 61,
+				"condition": "Rain"
+			},
+			{
+				"day": "Friday",
+				"high": 68,
+				"low": 54,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Saturday",
+				"high": 71,
+				"low": 58,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Sunday",
+				"high": 76,
+				"low": 62,
+				"condition": "Foggy"
+			}
+		]
+	},
+	{
+		"location": "Sydney, Australia",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 78,
+				"low": 62,
+				"condition": "Sunny"
+			},
+			{
+				"day": "Tuesday",
+				"high": 80,
+				"low": 65,
+				"condition": "Partly Cloudy"
+			},
+			{
+				"day": "Wednesday",
+				"high": 75,
+				"low": 60,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 81,
+				"low": 66,
+				"condition": "Rain"
+			},
+			{
+				"day": "Friday",
+				"high": 74,
+				"low": 59,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Saturday",
+				"high": 77,
+				"low": 62,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Sunday",
+				"high": 82,
+				"low": 67,
+				"condition": "Foggy"
+			}
+		]
+	},
+	{
+		"location": "Tokyo, Japan",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 82,
+				"low": 70,
+				"condition": "Rain"
+			},
+			{
+				"day": "Tuesday",
+				"high": 85,
+				"low": 72,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Wednesday",
+				"high": 80,
+				"low": 68,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 84,
+				"low": 71,
+				"condition": "Sunny"
+			},
+			{
+				"day": "Friday",
+				"high": 78,
+				"low": 66,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Saturday",
+				"high": 81,
+				"low": 68,
+				"condition": "Foggy"
+			},
+			{
+				"day": "Sunday",
+				"high": 86,
+				"low": 73,
+				"condition": "Clear"
+			}
+		]
+	},
+	{
+		"location": "Berlin, Germany",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 70,
+				"low": 56,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Tuesday",
+				"high": 73,
+				"low": 59,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Wednesday",
+				"high": 68,
+				"low": 54,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 72,
+				"low": 58,
+				"condition": "Rain"
+			},
+			{
+				"day": "Friday",
+				"high": 66,
+				"low": 52,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Saturday",
+				"high": 69,
+				"low": 55,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Sunday",
+				"high": 74,
+				"low": 60,
+				"condition": "Foggy"
+			}
+		]
+	},
+	{
+		"location": "Rome, Italy",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 76,
+				"low": 62,
+				"condition": "Sunny"
+			},
+			{
+				"day": "Tuesday",
+				"high": 79,
+				"low": 65,
+				"condition": "Partly Cloudy"
+			},
+			{
+				"day": "Wednesday",
+				"high": 74,
+				"low": 59,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 78,
+				"low": 63,
+				"condition": "Rain"
+			},
+			{
+				"day": "Friday",
+				"high": 72,
+				"low": 57,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Saturday",
+				"high": 75,
+				"low": 61,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Sunday",
+				"high": 80,
+				"low": 66,
+				"condition": "Foggy"
+			}
+		]
+	},
+	{
+		"location": "Moscow, Russia",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 59,
+				"low": 48,
+				"condition": "Sunny"
+			},
+			{
+				"day": "Tuesday",
+				"high": 62,
+				"low": 51,
+				"condition": "Partly Cloudy"
+			},
+			{
+				"day": "Wednesday",
+				"high": 58,
+				"low": 47,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 61,
+				"low": 50,
+				"condition": "Rain"
+			},
+			{
+				"day": "Friday",
+				"high": 56,
+				"low": 45,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Saturday",
+				"high": 60,
+				"low": 49,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Sunday",
+				"high": 64,
+				"low": 53,
+				"condition": "Foggy"
+			}
+		]
+	},
+	{
+		"location": "Beijing, China",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 82,
+				"low": 68,
+				"condition": "Partly Cloudy"
+			},
+			{
+				"day": "Tuesday",
+				"high": 85,
+				"low": 70,
+				"condition": "Sunny"
+			},
+			{
+				"day": "Wednesday",
+				"high": 80,
+				"low": 66,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 84,
+				"low": 69,
+				"condition": "Rain"
+			},
+			{
+				"day": "Friday",
+				"high": 78,
+				"low": 64,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Saturday",
+				"high": 81,
+				"low": 67,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Sunday",
+				"high": 86,
+				"low": 72,
+				"condition": "Foggy"
+			}
+		]
+	},
+	{
+		"location": "Cairo, Egypt",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 92,
+				"low": 77,
+				"condition": "Clear"
+			},
+			{
+				"day": "Tuesday",
+				"high": 94,
+				"low": 78,
+				"condition": "Partly Cloudy"
+			},
+			{
+				"day": "Wednesday",
+				"high": 89,
+				"low": 75,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 93,
+				"low": 76,
+				"condition": "Sunny"
+			},
+			{
+				"day": "Friday",
+				"high": 87,
+				"low": 73,
+				"condition": "Mostly Sunny"
+			},
+			{
+				"day": "Saturday",
+				"high": 90,
+				"low": 74,
+				"condition": "Foggy"
+			},
+			{
+				"day": "Sunday",
+				"high": 95,
+				"low": 79,
+				"condition": "Clear"
+			}
+		]
+	},
+	{
+		"location": "Toronto, Canada",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 70,
+				"low": 58,
+				"condition": "Thunderstorms"
+			},
+			{
+				"day": "Tuesday",
+				"high": 73,
+				"low": 61,
+				"condition": "Rain"
+			},
+			{
+				"day": "Wednesday",
+				"high": 68,
+				"low": 55,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 72,
+				"low": 59,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Friday",
+				"high": 66,
+				"low": 52,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Saturday",
+				"high": 69,
+				"low": 57,
+				"condition": "Foggy"
+			},
+			{
+				"day": "Sunday",
+				"high": 74,
+				"low": 61,
+				"condition": "Clear"
+			}
+		]
+	},
+	{
+		"location": "Dubai, UAE",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 98,
+				"low": 85,
+				"condition": "Sunny"
+			},
+			{
+				"day": "Tuesday",
+				"high": 101,
+				"low": 87,
+				"condition": "Partly Cloudy"
+			},
+			{
+				"day": "Wednesday",
+				"high": 95,
+				"low": 82,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 99,
+				"low": 84,
+				"condition": "Rain"
+			},
+			{
+				"day": "Friday",
+				"high": 93,
+				"low": 80,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Saturday",
+				"high": 96,
+				"low": 83,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Sunday",
+				"high": 102,
+				"low": 88,
+				"condition": "Foggy"
+			}
+		]
+	},
+	{
+		"location": "São Paulo, Brazil",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 78,
+				"low": 64,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Tuesday",
+				"high": 81,
+				"low": 67,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Wednesday",
+				"high": 76,
+				"low": 62,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 80,
+				"low": 65,
+				"condition": "Rain"
+			},
+			{
+				"day": "Friday",
+				"high": 74,
+				"low": 60,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Saturday",
+				"high": 77,
+				"low": 63,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Sunday",
+				"high": 82,
+				"low": 68,
+				"condition": "Foggy"
+			}
+		]
+	},
+	{
+		"location": "Mumbai, India",
+		"forecast": [
+			{
+				"day": "Monday",
+				"high": 86,
+				"low": 75,
+				"condition": "Rain"
+			},
+			{
+				"day": "Tuesday",
+				"high": 89,
+				"low": 78,
+				"condition": "Partly Sunny"
+			},
+			{
+				"day": "Wednesday",
+				"high": 84,
+				"low": 73,
+				"condition": "Cloudy"
+			},
+			{
+				"day": "Thursday",
+				"high": 88,
+				"low": 77,
+				"condition": "Sunny"
+			},
+			{
+				"day": "Friday",
+				"high": 82,
+				"low": 72,
+				"condition": "Mostly Cloudy"
+			},
+			{
+				"day": "Saturday",
+				"high": 85,
+				"low": 74,
+				"condition": "Foggy"
+			},
+			{
+				"day": "Sunday",
+				"high": 90,
+				"low": 79,
+				"condition": "Clear"
+			}
+		]
+	}
+]

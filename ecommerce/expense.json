@@ -1,0 +1,144 @@
+{
+  "expenses": [
+    {
+      "date": "2022-01-05",
+      "description": "Rent for January",
+      "category": "Rent",
+      "amount": 3000,
+      "location": "123 Main St"
+    },
+    {
+      "date": "2022-01-10",
+      "description": "Purchase of Inventory",
+      "category": "Inventory",
+      "amount": 5000,
+      "location": "Supplier A"
+    },
+    {
+      "date": "2022-01-15",
+      "description": "Payroll for January",
+      "category": "Payroll",
+      "amount": 8000,
+      "location": "Online"
+    },
+    {
+      "date": "2022-02-05",
+      "description": "Rent for February",
+      "category": "Rent",
+      "amount": 3000,
+      "location": "123 Main St"
+    },
+    {
+      "date": "2022-02-10",
+      "description": "Purchase of Inventory",
+      "category": "Inventory",
+      "amount": 7000,
+      "location": "Supplier B"
+    },
+    {
+      "date": "2022-02-15",
+      "description": "Payroll for February",
+      "category": "Payroll",
+      "amount": 8000,
+      "location": "Online"
+    },
+    {
+      "date": "2022-03-05",
+      "description": "Rent for March",
+      "category": "Rent",
+      "amount": 3000,
+      "location": "123 Main St"
+    },
+    {
+      "date": "2022-03-10",
+      "description": "Purchase of Inventory",
+      "category": "Inventory",
+      "amount": 6000,
+      "location": "Supplier C"
+    },
+    {
+      "date": "2022-03-15",
+      "description": "Payroll for March",
+      "category": "Payroll",
+      "amount": 8000,
+      "location": "Online"
+    },
+    {
+      "date": "2022-04-05",
+      "description": "Rent for April",
+      "category": "Rent",
+      "amount": 3000,
+      "location": "123 Main St"
+    },
+    {
+      "date": "2022-04-10",
+      "description": "Purchase of Inventory",
+      "category": "Inventory",
+      "amount": 8000,
+      "location": "Supplier D"
+    },
+    {
+      "date": "2022-04-15",
+      "description": "Payroll for April",
+      "category": "Payroll",
+      "amount": 8000,
+      "location": "Online"
+    },
+    {
+      "date": "2022-05-05",
+      "description": "Rent for May",
+      "category": "Rent",
+      "amount": 3000,
+      "location": "123 Main St"
+    },
+    {
+      "date": "2022-05-10",
+      "description": "Purchase of Inventory",
+      "category": "Inventory",
+      "amount": 7000,
+      "location": "Supplier E"
+    },
+    {
+      "date": "2022-05-15",
+      "description": "Payroll for May",
+      "category": "Payroll",
+      "amount": 8000,
+      "location": "Online"
+    },
+    {
+      "date": "2022-06-05",
+      "description": "Rent for June",
+      "category": "Rent",
+      "amount": 3000,
+      "location": "123 Main St"
+    },
+    {
+      "date": "2022-07-05",
+      "description": "Rent for July",
+      "category": "Rent",
+      "amount": 3000,
+      "location": "123 Main St"
+    },
+    {
+      "date": "2022-07-10",
+      "description": "Purchase of Inventory",
+      "category": "Inventory",
+      "amount": 7000,
+      "location": "Supplier F"
+    },
+    {
+      "date": "2022-07-15",
+      "description": "Payroll for July",
+      "category": "Payroll",
+      "amount": 8000,
+      "location": "Online"
+    },
+    {
+      "date": "2022-08-05",
+      "description": "Rent for August",
+      "category": "Rent",
+      "amount": 3000,
+      "location": "123 Main St"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"event": "Doctor's appointment",
+		"date": "2023-07-14",
+		"time": "10:00 AM"
+	},
+	{
+		"id": 2,
+		"event": "Team Meeting",
+		"date": "2023-07-15",
+		"time": "2:00 PM"
+	},
+	{
+		"id": 3,
+		"event": "Birthday Party",
+		"date": "2023-07-16",
+		"time": "6:00 PM"
+	},
+	{
+		"id": 4,
+		"event": "Dinner with Friends",
+		"date": "2023-07-17",
+		"time": "7:30 PM"
+	},
+	{
+		"id": 5,
+		"event": "Movie Night",
+		"date": "2023-07-18",
+		"time": "8:00 PM"
+	},
+	{
+		"id": 6,
+		"event": "Conference Call",
+		"date": "2023-07-19",
+		"time": "9:30 AM"
+	},
+	{
+		"id": 7,
+		"event": "Gym Session",
+		"date": "2023-07-20",
+		"time": "6:00 AM"
+	},
+	{
+		"id": 8,
+		"event": "Shopping Trip",
+		"date": "2023-07-21",
+		"time": "3:00 PM"
+	},
+	{
+		"id": 9,
+		"event": "Family Picnic",
+		"date": "2023-07-22",
+		"time": "11:00 AM"
+	},
+	{
+		"id": 10,
+		"event": "Volunteer Work",
+		"date": "2023-07-23",
+		"time": "2:00 PM"
+	},
+	{
+		"id": 11,
+		"event": "Book Club Meeting",
+		"date": "2023-07-24",
+		"time": "7:00 PM"
+	},
+	{
+		"id": 12,
+		"event": "Art Exhibition",
+		"date": "2023-07-25",
+		"time": "6:30 PM"
+	},
+	{
+		"id": 13,
+		"event": "Music Concert",
+		"date": "2023-07-26",
+		"time": "8:00 PM"
+	},
+	{
+		"id": 14,
+		"event": "Workshop on Photography",
+		"date": "2023-07-27",
+		"time": "10:00 AM"
+	},
+	{
+		"id": 15,
+		"event": "Hiking Trip",
+		"date": "2023-07-28",
+		"time": "9:00 AM"
+	}
+]

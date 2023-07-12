@@ -1,0 +1,77 @@
+[
+	{
+		"id": 1,
+		"followerUserId": 2,
+		"followedUserId": 1
+	},
+	{
+		"id": 2,
+		"followerUserId": 3,
+		"followedUserId": 1
+	},
+	{
+		"id": 3,
+		"followerUserId": 4,
+		"followedUserId": 2
+	},
+	{
+		"id": 4,
+		"followerUserId": 5,
+		"followedUserId": 2
+	},
+	{
+		"id": 5,
+		"followerUserId": 6,
+		"followedUserId": 3
+	},
+	{
+		"id": 6,
+		"followerUserId": 7,
+		"followedUserId": 3
+	},
+	{
+		"id": 7,
+		"followerUserId": 8,
+		"followedUserId": 4
+	},
+	{
+		"id": 8,
+		"followerUserId": 9,
+		"followedUserId": 5
+	},
+	{
+		"id": 9,
+		"followerUserId": 10,
+		"followedUserId": 5
+	},
+	{
+		"id": 10,
+		"followerUserId": 1,
+		"followedUserId": 6
+	},
+	{
+		"id": 11,
+		"followerUserId": 2,
+		"followedUserId": 6
+	},
+	{
+		"id": 12,
+		"followerUserId": 3,
+		"followedUserId": 7
+	},
+	{
+		"id": 13,
+		"followerUserId": 4,
+		"followedUserId": 7
+	},
+	{
+		"id": 14,
+		"followerUserId": 5,
+		"followedUserId": 8
+	},
+	{
+		"id": 15,
+		"followerUserId": 6,
+		"followedUserId": 8
+	}
+]

@@ -1,0 +1,74 @@
+{
+	"reviews": [
+		{
+			"id": "1",
+			"userId": "1",
+			"propertyId": "1",
+			"rating": 4.5,
+			"text": "Beautiful condo with stunning ocean views. The amenities were top-notch and the location was perfect."
+		},
+		{
+			"id": "2",
+			"userId": "2",
+			"propertyId": "2",
+			"rating": 5,
+			"text": "Charming family home in a great neighborhood. Plenty of space and natural light. Loved it!"
+		},
+		{
+			"id": "3",
+			"userId": "3",
+			"propertyId": "3",
+			"rating": 5,
+			"text": "Absolutely luxurious villa with a private pool. The attention to detail was exceptional. Highly recommended!"
+		},
+		{
+			"id": "4",
+			"userId": "4",
+			"propertyId": "4",
+			"rating": 4,
+			"text": "Cozy cottage in a serene setting. Perfect for a peaceful getaway. Loved the rustic charm."
+		},
+		{
+			"id": "5",
+			"userId": "5",
+			"propertyId": "5",
+			"rating": 4.5,
+			"text": "Modern loft with a great location. The open floor plan and contemporary design were impressive."
+		},
+		{
+			"id": "6",
+			"userId": "1",
+			"propertyId": "6",
+			"rating": 4,
+			"text": "Spacious family house with a large backyard. Great for families with kids. Enjoyed our stay."
+		},
+		{
+			"id": "7",
+			"userId": "2",
+			"propertyId": "7",
+			"rating": 4.5,
+			"text": "Peaceful lakefront retreat. The views were breathtaking and the private dock was a bonus."
+		},
+		{
+			"id": "8",
+			"userId": "3",
+			"propertyId": "8",
+			"rating": 5,
+			"text": "Historic townhouse with modern amenities. Loved the classic architecture and the attention to detail."
+		},
+		{
+			"id": "9",
+			"userId": "4",
+			"propertyId": "9",
+			"rating": 4,
+			"text": "Mountain view retreat with a cozy cabin. Perfect for a peaceful getaway. Enjoyed the tranquility."
+		},
+		{
+			"id": "10",
+			"userId": "5",
+			"propertyId": "10",
+			"rating": 5,
+			"text": "Luxurious beachfront villa with stunning views. The private access to the beach was incredible."
+		}
+	]
+}

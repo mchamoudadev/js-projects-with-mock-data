@@ -1,0 +1,277 @@
+{
+  "products": [
+    {
+      "id": "1001",
+      "name": "Wireless Earbuds",
+      "price": 59.99,
+      "in_stock": true,
+      "items_left": 20,
+      "category": "Headphones",
+      "image_url": "https://images.pexels.com/photos/11189086/pexels-photo-11189086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1002",
+      "name": "Smart Watch",
+      "price": 129.99,
+      "in_stock": true,
+      "items_left": 10,
+      "category": "Wearable Technology",
+      "image_url": "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1003",
+      "name": "Wireless Charger",
+      "price": 24.99,
+      "in_stock": false,
+      "items_left": 0,
+      "category": "Chargers",
+      "image_url": "https://images.pexels.com/photos/7952558/pexels-photo-7952558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1004",
+      "name": "Smart Speaker",
+      "price": 149.99,
+      "in_stock": true,
+      "items_left": 5,
+      "category": "Smart Home",
+      "image_url": "https://images.pexels.com/photos/977296/pexels-photo-977296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1005",
+      "name": "Gaming Mouse",
+      "price": 39.99,
+      "in_stock": true,
+      "items_left": 15,
+      "category": "Gaming",
+      "image_url": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1006",
+      "name": "External Hard Drive",
+      "price": 99.99,
+      "in_stock": true,
+      "items_left": 8,
+      "category": "Storage",
+      "image_url": "https://images.pexels.com/photos/3361486/pexels-photo-3361486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1007",
+      "name": "Smartphone",
+      "price": 799.99,
+      "in_stock": true,
+      "items_left": 3,
+      "category": "Mobile Devices",
+      "image_url": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1008",
+      "name": "Laptop",
+      "price": 1299.99,
+      "in_stock": false,
+      "items_left": 0,
+      "category": "Computers",
+      "image_url": "https://images.pexels.com/photos/1181216/pexels-photo-1181216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1009",
+      "name": "Smart Thermostat",
+      "price": 199.99,
+      "in_stock": true,
+      "items_left": 6,
+      "category": "Smart Home",
+      "image_url": "https://images.pexels.com/photos/16531199/pexels-photo-16531199/free-photo-of-thermostats-hanging-on-wall.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1010",
+      "name": "Fitness Tracker",
+      "price": 79.99,
+      "in_stock": true,
+      "items_left": 12,
+      "category": "Wearable Technology",
+      "image_url": "https://images.pexels.com/photos/4426515/pexels-photo-4426515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1011",
+      "name": "Portable Bluetooth Speaker",
+      "price": 79.99,
+      "in_stock": false,
+      "items_left": 0,
+      "category": "Audio",
+      "image_url": "https://images.pexels.com/photos/5310538/pexels-photo-5310538.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1012",
+      "name": "Smart Lock",
+      "price": 199.99,
+      "in_stock": true,
+      "items_left": 8,
+      "category": "Smart Home",
+      "image_url": "https://images.pexels.com/photos/11391947/pexels-photo-11391947.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1013",
+      "name": "Noise Cancelling Headphones",
+      "price": 149.99,
+      "in_stock": true,
+      "items_left": 5,
+      "category": "Headphones",
+      "image_url": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1014",
+      "name": "Bluetooth Keyboard",
+      "price": 49.99,
+      "in_stock": true,
+      "items_left": 10,
+      "category": "https://images.pexels.com/photos/9469517/pexels-photo-9469517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1015",
+      "name": "Virtual Reality Headset",
+      "price": 299.99,
+      "in_stock": true,
+      "items_left": 3,
+      "category": "Gaming",
+      "image_url": "https://images.pexels.com/photos/3861458/pexels-photo-3861458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1016",
+      "name": "Tablet",
+      "price": 499.99,
+      "in_stock": true,
+      "items_left": 7,
+      "category": "Mobile Devices",
+      "image_url": "https://images.pexels.com/photos/221185/pexels-photo-221185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1017",
+      "name": "Wireless Gaming Controller",
+      "price": 69.99,
+      "in_stock": true,
+      "items_left": 9,
+      "category": "Gaming",
+      "image_url": "https://images.pexels.com/photos/12719131/pexels-photo-12719131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1018",
+      "name": "Smart Scale",
+      "price": 79.99,
+      "in_stock": false,
+      "items_left": 0,
+      "category": "Fitness",
+      "image_url": "https://images.pexels.com/photos/53404/scale-diet-fat-health-53404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1019",
+      "name": "Action Camera",
+      "price": 199.99,
+      "in_stock": true,
+      "items_left": 4,
+      "category": "Cameras",
+      "image_url": "https://images.pexels.com/photos/4270223/pexels-photo-4270223.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "1020",
+      "name": "Wireless Gaming Headset",
+      "price": 99.99,
+      "in_stock": true,
+      "items_left": 6,
+      "category": "Gaming",
+      "image_url": ""
+    },
+    {
+        "products": [
+          {
+            "id": "1021",
+            "name": "Wireless Earbuds",
+            "price": 129.99,
+            "in_stock": true,
+            "items_left": 4,
+            "category": "Headphones",
+            "image_url": "https://images.pexels.com/photos/6308079/pexels-photo-6308079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200"
+          },
+          {
+            "id": "1022",
+            "name": "Smart Thermostat",
+            "price": 199.99,
+            "in_stock": true,
+            "items_left": 2,
+            "category": "Smart Home",
+            "image_url": "https://images.pexels.com/photos/1173657/pexels-photo-1173657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200"
+          },
+          {
+            "id": "1023",
+            "name": "Gaming Laptop",
+            "price": 1499.99,
+            "in_stock": true,
+            "items_left": 5,
+            "category": "Computers",
+            "image_url": "https://images.pexels.com/photos/7110093/pexels-photo-7110093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200"
+          },
+          {
+            "id": "1024",
+            "name": "Fitness Tracker",
+            "price": 99.99,
+            "in_stock": true,
+            "items_left": 8,
+            "category": "Fitness",
+            "image_url": "https://images.pexels.com/photos/5372439/pexels-photo-5372439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200"
+          },
+          {
+            "id": "1025",
+            "name": "Wireless Charger",
+            "price": 49.99,
+            "in_stock": true,
+            "items_left": 10,
+            "category": "Mobile Accessories",
+            "image_url": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200"
+          },
+          {
+            "id": "1026",
+            "name": "Smart Watch",
+            "price": 299.99,
+            "in_stock": true,
+            "items_left": 6,
+            "category": "Wearables",
+            "image_url": "https://images.pexels.com/photos/6764089/pexels-photo-6764089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200"
+          },
+          {
+            "id": "1027",
+            "name": "Wireless Router",
+            "price": 149.99,
+            "in_stock": true,
+            "items_left": 9,
+            "category": "Networking",
+            "image_url": "https://images.pexels.com/photos/6801654/pexels-photo-6801654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200"
+          },
+          {
+            "id": "1028",
+            "name": "Smartphone",
+            "price": 899.99,
+            "in_stock": true,
+            "items_left": 4,
+            "category": "Mobile Devices",
+            "image_url": "https://images.pexels.com/photos/4992672/pexels-photo-4992672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200"
+          },
+          {
+            "id": "1029",
+            "name": "Wireless Security Camera",
+            "price": 149.99,
+            "in_stock": true,
+            "items_left": 7,
+            "category": "Security",
+            "image_url": "https://images.pexels.com/photos/6828738/pexels-photo-6828738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200"
+          },
+          {
+            "id": "1030",
+            "name": "Electric Toothbrush",
+            "price": 79.99,
+            "in_stock": true,
+            "items_left": 3,
+            "category": "Personal Care",
+            "image_url": "https://images.pexels.com/photos/2530774/pexels-photo-2530774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200"
+          }
+        ]
+      }
+  ]
+}

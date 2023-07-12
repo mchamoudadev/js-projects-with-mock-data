@@ -1,0 +1,77 @@
+[
+	{
+		"id": 1,
+		"headline": "New Innovation in AI",
+		"category": "Technology"
+	},
+	{
+		"id": 2,
+		"headline": "Breakthrough in Medical Research",
+		"category": "Health"
+	},
+	{
+		"id": 3,
+		"headline": "Revolutionary Renewable Energy Solution",
+		"category": "Science"
+	},
+	{
+		"id": 4,
+		"headline": "Exciting Advances in Space Exploration",
+		"category": "Space"
+	},
+	{
+		"id": 5,
+		"headline": "Innovative Design in Architecture",
+		"category": "Art"
+	},
+	{
+		"id": 6,
+		"headline": "Cutting-edge Developments in Robotics",
+		"category": "Technology"
+	},
+	{
+		"id": 7,
+		"headline": "New Discoveries in Environmental Science",
+		"category": "Science"
+	},
+	{
+		"id": 8,
+		"headline": "Groundbreaking Research in Quantum Computing",
+		"category": "Technology"
+	},
+	{
+		"id": 9,
+		"headline": "Revolutionizing Transportation with Electric Vehicles",
+		"category": "Automotive"
+	},
+	{
+		"id": 10,
+		"headline": "Innovative Solutions for Sustainable Agriculture",
+		"category": "Environment"
+	},
+	{
+		"id": 11,
+		"headline": "Advancements in Artificial Intelligence Applications",
+		"category": "Technology"
+	},
+	{
+		"id": 12,
+		"headline": "Exploring the Future of Virtual Reality",
+		"category": "Technology"
+	},
+	{
+		"id": 13,
+		"headline": "Breakthroughs in Biotechnology",
+		"category": "Health"
+	},
+	{
+		"id": 14,
+		"headline": "Revolutionizing Education with EdTech",
+		"category": "Education"
+	},
+	{
+		"id": 15,
+		"headline": "Innovative Startups Shaping the Future",
+		"category": "Business"
+	}
+]

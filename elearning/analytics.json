@@ -1,0 +1,426 @@
+{
+	"courses": [
+		{
+			"id": 1,
+			"title": "JavaScript Basics",
+			"enrollmentCount": 50,
+			"completionRate": 0.8,
+			"averageScore": 85
+		},
+		{
+			"id": 2,
+			"title": "CSS Styling",
+			"enrollmentCount": 40,
+			"completionRate": 0.6,
+			"averageScore": 75
+		},
+		{
+			"id": 3,
+			"title": "Python Programming",
+			"enrollmentCount": 35,
+			"completionRate": 0.9,
+			"averageScore": 92
+		},
+		{
+			"id": 4,
+			"title": "HTML5 Fundamentals",
+			"enrollmentCount": 55,
+			"completionRate": 0.7,
+			"averageScore": 80
+		},
+		{
+			"id": 5,
+			"title": "Web Development with React",
+			"enrollmentCount": 30,
+			"completionRate": 0.85,
+			"averageScore": 88
+		},
+		{
+			"id": 6,
+			"title": "Data Science with Python",
+			"enrollmentCount": 25,
+			"completionRate": 0.75,
+			"averageScore": 78
+		},
+		{
+			"id": 7,
+			"title": "Java Programming",
+			"enrollmentCount": 45,
+			"completionRate": 0.9,
+			"averageScore": 90
+		},
+		{
+			"id": 8,
+			"title": "Introduction to Machine Learning",
+			"enrollmentCount": 35,
+			"completionRate": 0.8,
+			"averageScore": 85
+		},
+		{
+			"id": 9,
+			"title": "Android App Development",
+			"enrollmentCount": 40,
+			"completionRate": 0.7,
+			"averageScore": 80
+		},
+		{
+			"id": 10,
+			"title": "Database Management with SQL",
+			"enrollmentCount": 30,
+			"completionRate": 0.85,
+			"averageScore": 88
+		},
+		{
+			"id": 11,
+			"title": "Full-Stack Web Development",
+			"enrollmentCount": 55,
+			"completionRate": 0.8,
+			"averageScore": 85
+		},
+		{
+			"id": 12,
+			"title": "Ethical Hacking and Cybersecurity",
+			"enrollmentCount": 45,
+			"completionRate": 0.75,
+			"averageScore": 78
+		},
+		{
+			"id": 13,
+			"title": "Data Visualization with Tableau",
+			"enrollmentCount": 35,
+			"completionRate": 0.9,
+			"averageScore": 90
+		},
+		{
+			"id": 14,
+			"title": "Python Web Scraping",
+			"enrollmentCount": 30,
+			"completionRate": 0.8,
+			"averageScore": 85
+		},
+		{
+			"id": 15,
+			"title": "Digital Marketing Fundamentals",
+			"enrollmentCount": 40,
+			"completionRate": 0.7,
+			"averageScore": 80
+		},
+		{
+			"id": 16,
+			"title": "Responsive Web Design",
+			"enrollmentCount": 35,
+			"completionRate": 0.85,
+			"averageScore": 88
+		},
+		{
+			"id": 17,
+			"title": "Introduction to Artificial Intelligence",
+			"enrollmentCount": 50,
+			"completionRate": 0.8,
+			"averageScore": 85
+		},
+		{
+			"id": 18,
+			"title": "Software Engineering Principles",
+			"enrollmentCount": 45,
+			"completionRate": 0.75,
+			"averageScore": 78
+		},
+		{
+			"id": 19,
+			"title": "Network Security",
+			"enrollmentCount": 35,
+			"completionRate": 0.9,
+			"averageScore": 90
+		},
+		{
+			"id": 20,
+			"title": "JavaScript Frameworks: React, Angular, Vue",
+			"enrollmentCount": 30,
+			"completionRate": 0.8,
+			"averageScore": 85
+		},
+		{
+			"id": 21,
+			"title": "Cloud Computing with AWS",
+			"enrollmentCount": 40,
+			"completionRate": 0.7,
+			"averageScore": 80
+		},
+		{
+			"id": 22,
+			"title": "Introduction to Data Analysis",
+			"enrollmentCount": 35,
+			"completionRate": 0.85,
+			"averageScore": 88
+		},
+		{
+			"id": 23,
+			"title": "UI/UX Design Fundamentals",
+			"enrollmentCount": 50,
+			"completionRate": 0.8,
+			"averageScore": 85
+		},
+		{
+			"id": 24,
+			"title": "Blockchain Technology",
+			"enrollmentCount": 45,
+			"completionRate": 0.75,
+			"averageScore": 78
+		},
+		{
+			"id": 25,
+			"title": "Artificial Neural Networks",
+			"enrollmentCount": 35,
+			"completionRate": 0.9,
+			"averageScore": 90
+		},
+		{
+			"id": 26,
+			"title": "Mobile App Design",
+			"enrollmentCount": 30,
+			"completionRate": 0.8,
+			"averageScore": 85
+		},
+		{
+			"id": 27,
+			"title": "Introduction to Data Structures",
+			"enrollmentCount": 40,
+			"completionRate": 0.7,
+			"averageScore": 80
+		},
+		{
+			"id": 28,
+			"title": "Introduction to Natural Language Processing",
+			"enrollmentCount": 35,
+			"completionRate": 0.85,
+			"averageScore": 88
+		},
+		{
+			"id": 29,
+			"title": "DevOps Fundamentals",
+			"enrollmentCount": 50,
+			"completionRate": 0.8,
+			"averageScore": 85
+		},
+		{
+			"id": 30,
+			"title": "Introduction to Big Data",
+			"enrollmentCount": 45,
+			"completionRate": 0.75,
+			"averageScore": 78
+		}
+	],
+	"students": [
+		{
+			"id": 1,
+			"name": "John Doe",
+			"completedCourses": [1, 3, 5],
+			"currentCourses": [2, 4, 6],
+			"averageScore": 88
+		},
+		{
+			"id": 2,
+			"name": "Jane Smith",
+			"completedCourses": [1, 2, 3],
+			"currentCourses": [],
+			"averageScore": 85
+		},
+		{
+			"id": 3,
+			"name": "Michael Johnson",
+			"completedCourses": [4, 6, 8],
+			"currentCourses": [1, 3, 5],
+			"averageScore": 82
+		},
+		{
+			"id": 4,
+			"name": "Emily Davis",
+			"completedCourses": [7, 9, 11],
+			"currentCourses": [10, 12, 14],
+			"averageScore": 90
+		},
+		{
+			"id": 5,
+			"name": "Daniel Martinez",
+			"completedCourses": [10, 12, 14],
+			"currentCourses": [7, 9, 11],
+			"averageScore": 88
+		},
+		{
+			"id": 6,
+			"name": "Olivia Taylor",
+			"completedCourses": [13, 15, 17],
+			"currentCourses": [16, 18, 20],
+			"averageScore": 85
+		},
+		{
+			"id": 7,
+			"name": "Matthew Anderson",
+			"completedCourses": [16, 18, 20],
+			"currentCourses": [13, 15, 17],
+			"averageScore": 82
+		},
+		{
+			"id": 8,
+			"name": "Ava Thomas",
+			"completedCourses": [19, 21, 23],
+			"currentCourses": [22, 24, 26],
+			"averageScore": 90
+		},
+		{
+			"id": 9,
+			"name": "David Johnson",
+			"completedCourses": [22, 24, 26],
+			"currentCourses": [19, 21, 23],
+			"averageScore": 88
+		},
+		{
+			"id": 10,
+			"name": "Sarah Williams",
+			"completedCourses": [27, 29, 30],
+			"currentCourses": [28],
+			"averageScore": 85
+		},
+		{
+			"id": 11,
+			"name": "Mark Wilson",
+			"completedCourses": [28, 30],
+			"currentCourses": [27, 29],
+			"averageScore": 82
+		},
+		{
+			"id": 12,
+			"name": "Sophia Brown",
+			"completedCourses": [1, 3, 5],
+			"currentCourses": [2, 4, 6],
+			"averageScore": 90
+		},
+		{
+			"id": 13,
+			"name": "James Lee",
+			"completedCourses": [7, 9, 11],
+			"currentCourses": [10, 12, 14],
+			"averageScore": 88
+		},
+		{
+			"id": 14,
+			"name": "Grace Wilson",
+			"completedCourses": [10, 12, 14],
+			"currentCourses": [7, 9, 11],
+			"averageScore": 85
+		},
+		{
+			"id": 15,
+			"name": "Liam Clark",
+			"completedCourses": [13, 15, 17],
+			"currentCourses": [16, 18, 20],
+			"averageScore": 82
+		},
+		{
+			"id": 16,
+			"name": "Chloe Turner",
+			"completedCourses": [16, 18, 20],
+			"currentCourses": [13, 15, 17],
+			"averageScore": 90
+		},
+		{
+			"id": 17,
+			"name": "Ethan Walker",
+			"completedCourses": [19, 21, 23],
+			"currentCourses": [22, 24, 26],
+			"averageScore": 88
+		},
+		{
+			"id": 18,
+			"name": "Mia Harris",
+			"completedCourses": [22, 24, 26],
+			"currentCourses": [19, 21, 23],
+			"averageScore": 85
+		},
+		{
+			"id": 19,
+			"name": "Noah Martin",
+			"completedCourses": [27, 29, 30],
+			"currentCourses": [28],
+			"averageScore": 82
+		},
+		{
+			"id": 20,
+			"name": "Avery Thompson",
+			"completedCourses": [28, 30],
+			"currentCourses": [27, 29],
+			"averageScore": 90
+		},
+		{
+			"id": 21,
+			"name": "Harper Hall",
+			"completedCourses": [1, 3, 5],
+			"currentCourses": [2, 4, 6],
+			"averageScore": 88
+		},
+		{
+			"id": 22,
+			"name": "Benjamin Wright",
+			"completedCourses": [7, 9, 11],
+			"currentCourses": [10, 12, 14],
+			"averageScore": 85
+		},
+		{
+			"id": 23,
+			"name": "Evelyn Cook",
+			"completedCourses": [10, 12, 14],
+			"currentCourses": [7, 9, 11],
+			"averageScore": 82
+		},
+		{
+			"id": 24,
+			"name": "Alexander Gonzalez",
+			"completedCourses": [13, 15, 17],
+			"currentCourses": [16, 18, 20],
+			"averageScore": 90
+		},
+		{
+			"id": 25,
+			"name": "Scarlett Perez",
+			"completedCourses": [16, 18, 20],
+			"currentCourses": [13, 15, 17],
+			"averageScore": 88
+		},
+		{
+			"id": 26,
+			"name": "Jackson Hernandez",
+			"completedCourses": [19, 21, 23],
+			"currentCourses": [22, 24, 26],
+			"averageScore": 85
+		},
+		{
+			"id": 27,
+			"name": "Luna Sanchez",
+			"completedCourses": [22, 24, 26],
+			"currentCourses": [19, 21, 23],
+			"averageScore": 82
+		},
+		{
+			"id": 28,
+			"name": "Lucas Ramirez",
+			"completedCourses": [27, 29, 30],
+			"currentCourses": [28],
+			"averageScore": 90
+		},
+		{
+			"id": 29,
+			"name": "Lily Peterson",
+			"completedCourses": [28, 30],
+			"currentCourses": [27, 29],
+			"averageScore": 88
+		},
+		{
+			"id": 30,
+			"name": "Gabriel Scott",
+			"completedCourses": [1, 3, 5],
+			"currentCourses": [2, 4, 6],
+			"averageScore": 85
+		}
+	]
+}

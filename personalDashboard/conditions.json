@@ -1,0 +1,152 @@
+[
+	{
+		"location": "San Francisco, USA",
+		"temperature": 68,
+		"condition": "Sunny"
+	},
+	{
+		"location": "New York City, USA",
+		"temperature": 75,
+		"condition": "Partly Cloudy"
+	},
+	{
+		"location": "London, UK",
+		"temperature": 62,
+		"condition": "Cloudy"
+	},
+	{
+		"location": "Paris, France",
+		"temperature": 70,
+		"condition": "Clear"
+	},
+	{
+		"location": "Sydney, Australia",
+		"temperature": 80,
+		"condition": "Sunny"
+	},
+	{
+		"location": "Tokyo, Japan",
+		"temperature": 82,
+		"condition": "Partly Sunny"
+	},
+	{
+		"location": "Berlin, Germany",
+		"temperature": 68,
+		"condition": "Light Rain"
+	},
+	{
+		"location": "Rome, Italy",
+		"temperature": 76,
+		"condition": "Sunny"
+	},
+	{
+		"location": "Moscow, Russia",
+		"temperature": 59,
+		"condition": "Cloudy"
+	},
+	{
+		"location": "Beijing, China",
+		"temperature": 84,
+		"condition": "Mostly Sunny"
+	},
+	{
+		"location": "Cairo, Egypt",
+		"temperature": 92,
+		"condition": "Clear"
+	},
+	{
+		"location": "Toronto, Canada",
+		"temperature": 70,
+		"condition": "Partly Cloudy"
+	},
+	{
+		"location": "Dubai, UAE",
+		"temperature": 98,
+		"condition": "Sunny"
+	},
+	{
+		"location": "São Paulo, Brazil",
+		"temperature": 78,
+		"condition": "Cloudy"
+	},
+	{
+		"location": "Mumbai, India",
+		"temperature": 86,
+		"condition": "Partly Sunny"
+	},
+	{
+		"location": "Mexico City, Mexico",
+		"temperature": 72,
+		"condition": "Rain"
+	},
+	{
+		"location": "Johannesburg, South Africa",
+		"temperature": 72,
+		"condition": "Sunny"
+	},
+	{
+		"location": "Seoul, South Korea",
+		"temperature": 77,
+		"condition": "Mostly Cloudy"
+	},
+	{
+		"location": "Hanoi, Vietnam",
+		"temperature": 89,
+		"condition": "Thunderstorms"
+	},
+	{
+		"location": "Madrid, Spain",
+		"temperature": 74,
+		"condition": "Clear"
+	},
+	{
+		"location": "Buenos Aires, Argentina",
+		"temperature": 66,
+		"condition": "Partly Cloudy"
+	},
+	{
+		"location": "Lima, Peru",
+		"temperature": 68,
+		"condition": "Foggy"
+	},
+	{
+		"location": "Stockholm, Sweden",
+		"temperature": 59,
+		"condition": "Rain"
+	},
+	{
+		"location": "Athens, Greece",
+		"temperature": 82,
+		"condition": "Sunny"
+	},
+	{
+		"location": "Oslo, Norway",
+		"temperature": 56,
+		"condition": "Cloudy"
+	},
+	{
+		"location": "Cape Town, South Africa",
+		"temperature": 64,
+		"condition": "Partly Cloudy"
+	},
+	{
+		"location": "Dublin, Ireland",
+		"temperature": 61,
+		"condition": "Drizzle"
+	},
+	{
+		"location": "Mexico City, Mexico",
+		"temperature": 75,
+		"condition": "Sunny"
+	},
+	{
+		"location": "Rio de Janeiro, Brazil",
+		"temperature": 80,
+		"condition": "Mostly Sunny"
+	},
+	{
+		"location": "Bangkok, Thailand",
+		"temperature": 92,
+		"condition": "Scattered Thunderstorms"
+	}
+]

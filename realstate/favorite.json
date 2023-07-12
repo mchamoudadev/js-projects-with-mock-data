@@ -1,0 +1,52 @@
+{
+	"favorites": [
+		{
+			"userId": "1",
+			"propertyId": "3"
+		},
+		{
+			"userId": "1",
+			"propertyId": "5"
+		},
+		{
+			"userId": "1",
+			"propertyId": "7"
+		},
+		{
+			"userId": "2",
+			"propertyId": "2"
+		},
+		{
+			"userId": "2",
+			"propertyId": "4"
+		},
+		{
+			"userId": "2",
+			"propertyId": "9"
+		},
+		{
+			"userId": "3",
+			"propertyId": "2"
+		},
+		{
+			"userId": "3",
+			"propertyId": "8"
+		},
+		{
+			"userId": "4",
+			"propertyId": "12"
+		},
+		{
+			"userId": "4",
+			"propertyId": "13"
+		},
+		{
+			"userId": "5",
+			"propertyId": "10"
+		},
+		{
+			"userId": "5",
+			"propertyId": "15"
+		}
+	]
+}

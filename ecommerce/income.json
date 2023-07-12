@@ -1,0 +1,144 @@
+{
+  "income": [
+    {
+      "date": "2022-01-01",
+      "description": "Sale of Laptop A",
+      "category": "Sales",
+      "amount": 1500,
+      "location": "In Store"
+    },
+    {
+      "date": "2022-01-05",
+      "description": "Sale of Printer B",
+      "category": "Sales",
+      "amount": 500,
+      "location": "Online"
+    },
+    {
+      "date": "2022-01-15",
+      "description": "Sale of Smartphone C",
+      "category": "Sales",
+      "amount": 2000,
+      "location": "In Store"
+    },
+    {
+      "date": "2022-02-01",
+      "description": "Sale of Laptop D",
+      "category": "Sales",
+      "amount": 2000,
+      "location": "Online"
+    },
+    {
+      "date": "2022-02-05",
+      "description": "Sale of Printer E",
+      "category": "Sales",
+      "amount": 750,
+      "location": "In Store"
+    },
+    {
+      "date": "2022-02-15",
+      "description": "Sale of Smartphone F",
+      "category": "Sales",
+      "amount": 2500,
+      "location": "Online"
+    },
+    {
+      "date": "2022-03-01",
+      "description": "Sale of Smartwatch G",
+      "category": "Sales",
+      "amount": 1000,
+      "location": "Online"
+    },
+    {
+      "date": "2022-03-05",
+      "description": "Sale of Tablet H",
+      "category": "Sales",
+      "amount": 1500,
+      "location": "In Store"
+    },
+    {
+      "date": "2022-03-15",
+      "description": "Sale of Laptop I",
+      "category": "Sales",
+      "amount": 2500,
+      "location": "Online"
+    },
+    {
+      "date": "2022-04-01",
+      "description": "Sale of Smartwatch J",
+      "category": "Sales",
+      "amount": 1200,
+      "location": "Online"
+    },
+    {
+      "date": "2022-04-05",
+      "description": "Sale of Tablet K",
+      "category": "Sales",
+      "amount": 1800,
+      "location": "In Store"
+    },
+    {
+      "date": "2022-04-15",
+      "description": "Sale of Laptop L",
+      "category": "Sales",
+      "amount": 3000,
+      "location": "Online"
+    },
+    {
+      "date": "2022-05-01",
+      "description": "Sale of Smartwatch M",
+      "category": "Sales",
+      "amount": 1300,
+      "location": "Online"
+    },
+    {
+      "date": "2022-05-05",
+      "description": "Sale of Tablet N",
+      "category": "Sales",
+      "amount": 2000,
+      "location": "In Store"
+    },
+    {
+      "date": "2022-05-15",
+      "description": "Sale of Laptop O",
+      "category": "Sales",
+      "amount": 3500,
+      "location": "Online"
+    },
+    {
+      "date": "2022-06-01",
+      "description": "Sale of Smartwatch P",
+      "category": "Sales",
+      "amount": 1400,
+      "location": "Online"
+    },
+    {
+      "date": "2022-06-05",
+      "description": "Sale of Smartphone Q",
+      "category": "Sales",
+      "amount": 1800,
+      "location": "In Store"
+    },
+    {
+      "date": "2022-06-15",
+      "description": "Sale of Headphones R",
+      "category": "Sales",
+      "amount": 500,
+      "location": "Online"
+    },
+    {
+      "date": "2022-07-01",
+      "description": "Sale of Laptop S",
+      "category": "Sales",
+      "amount": 2000,
+      "location": "Online"
+    },
+    {
+      "date": "2022-07-05",
+      "description": "Sale of Printer T",
+      "category": "Sales",
+      "amount": 750,
+      "location": "In Store"
+    }
+  ]
+}

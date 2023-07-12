@@ -1,0 +1,782 @@
+[
+	{
+		"id": 1,
+		"title": "Introduction to JavaScript",
+		"description": "Learn the basics of JavaScript programming.",
+		"instructor": "John Doe",
+		"enrollmentCount": 50,
+		"start_date": "2023-08-01",
+		"end_date": "2023-09-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Variables and Data Types",
+				"duration": "1 hour",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "In this lesson, you will learn about variables and data types in JavaScript."
+			},
+			{
+				"id": 2,
+				"title": "Control Flow",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "This lesson covers control flow statements like if-else, switch, and loops."
+			}
+		],
+		"photo": "https://example.com/intro-to-javascript.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Advanced Web Development",
+		"description": "Master advanced techniques in web development.",
+		"instructor": "Jane Smith",
+		"enrollmentCount": 30,
+		"start_date": "2023-09-01",
+		"end_date": "2023-12-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Responsive Design",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "This lesson covers responsive design techniques for building websites."
+			},
+			{
+				"id": 2,
+				"title": "Advanced CSS",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn advanced CSS features like flexbox and grid layouts."
+			}
+		],
+		"photo": "https://example.com/advanced-web-dev.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Data Structures and Algorithms",
+		"description": "Master data structures and algorithms for efficient programming.",
+		"instructor": "Emily Davis",
+		"enrollmentCount": 40,
+		"start_date": "2023-08-15",
+		"end_date": "2023-10-30",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Arrays and Linked Lists",
+				"duration": "2.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn about arrays, linked lists, and their operations."
+			},
+			{
+				"id": 2,
+				"title": "Searching and Sorting",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Explore different searching and sorting algorithms."
+			}
+		],
+		"photo": "https://example.com/data-structures.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Python for Data Science",
+		"description": "Learn Python programming for data analysis and visualization.",
+		"instructor": "Michael Johnson",
+		"enrollmentCount": 35,
+		"start_date": "2023-09-15",
+		"end_date": "2023-12-31",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Python",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get started with Python programming language."
+			},
+			{
+				"id": 2,
+				"title": "Data Analysis with Pandas",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Explore data analysis techniques using Pandas library."
+			}
+		],
+		"photo": "https://example.com/python-data-science.jpg"
+	},
+	{
+		"id": 5,
+		"title": "Web Design Fundamentals",
+		"description": "Learn the fundamentals of web design and create stunning websites.",
+		"instructor": "Daniel Martinez",
+		"enrollmentCount": 25,
+		"start_date": "2023-10-01",
+		"end_date": "2023-12-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "HTML Basics",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn the basics of HTML markup language."
+			},
+			{
+				"id": 2,
+				"title": "CSS Fundamentals",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Explore CSS properties and styles for web design."
+			}
+		],
+		"photo": "https://example.com/web-design-fundamentals.jpg"
+	},
+	{
+		"id": 6,
+		"title": "Mobile App Development",
+		"description": "Learn to develop mobile apps for iOS and Android platforms.",
+		"instructor": "Olivia Taylor",
+		"enrollmentCount": 30,
+		"start_date": "2023-08-01",
+		"end_date": "2023-09-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Mobile App Development",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get started with mobile app development."
+			},
+			{
+				"id": 2,
+				"title": "Building User Interfaces",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn to create intuitive user interfaces for mobile apps."
+			}
+		],
+		"photo": "https://example.com/mobile-app-development.jpg"
+	},
+	{
+		"id": 7,
+		"title": "Data Analysis with R",
+		"description": "Master data analysis using the R programming language.",
+		"instructor": "Matthew Anderson",
+		"enrollmentCount": 45,
+		"start_date": "2023-09-01",
+		"end_date": "2023-12-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to R",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get started with the R programming language."
+			},
+			{
+				"id": 2,
+				"title": "Data Manipulation and Visualization",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn to manipulate and visualize data using R."
+			}
+		],
+		"photo": "https://example.com/data-analysis-r.jpg"
+	},
+	{
+		"id": 8,
+		"title": "UI/UX Design",
+		"description": "Learn user interface and user experience design principles.",
+		"instructor": "Ava Thomas",
+		"enrollmentCount": 20,
+		"start_date": "2023-10-15",
+		"end_date": "2023-12-31",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "User Research",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn techniques for conducting user research."
+			},
+			{
+				"id": 2,
+				"title": "Wireframing and Prototyping",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Create wireframes and interactive prototypes."
+			}
+		],
+		"photo": "https://example.com/ui-ux-design.jpg"
+	},
+	{
+		"id": 9,
+		"title": "Java Programming",
+		"description": "Learn the Java programming language and build applications.",
+		"instructor": "David Johnson",
+		"enrollmentCount": 50,
+		"start_date": "2023-08-15",
+		"end_date": "2023-10-30",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Java",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get started with Java programming language."
+			},
+			{
+				"id": 2,
+				"title": "Object-Oriented Programming",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn object-oriented programming concepts in Java."
+			}
+		],
+		"photo": "https://example.com/java-programming.jpg"
+	},
+	{
+		"id": 10,
+		"title": "Cloud Computing Fundamentals",
+		"description": "Learn the fundamentals of cloud computing and its services.",
+		"instructor": "Sarah Williams",
+		"enrollmentCount": 35,
+		"start_date": "2023-09-15",
+		"end_date": "2023-12-31",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Cloud Computing",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get an overview of cloud computing concepts."
+			},
+			{
+				"id": 2,
+				"title": "Cloud Infrastructure and Services",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn about cloud infrastructure and various services."
+			}
+		],
+		"photo": "https://example.com/cloud-computing-fundamentals.jpg"
+	},
+	{
+		"id": 11,
+		"title": "React.js Essentials",
+		"description": "Learn to build interactive web applications with React.js.",
+		"instructor": "John Doe",
+		"enrollmentCount": 30,
+		"start_date": "2023-08-01",
+		"end_date": "2023-09-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Getting Started with React",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn the basics of React.js and set up a development environment."
+			},
+			{
+				"id": 2,
+				"title": "Components and Props",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Understand React components and how to use props."
+			}
+		],
+		"photo": "https://example.com/react-js-essentials.jpg"
+	},
+	{
+		"id": 12,
+		"title": "Machine Learning Fundamentals",
+		"description": "Learn the fundamentals of machine learning and its algorithms.",
+		"instructor": "Jane Smith",
+		"enrollmentCount": 25,
+		"start_date": "2023-09-01",
+		"end_date": "2023-12-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Machine Learning",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get an introduction to machine learning concepts."
+			},
+			{
+				"id": 2,
+				"title": "Supervised Learning",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn about supervised learning algorithms."
+			}
+		],
+		"photo": "https://example.com/machine-learning-fundamentals.jpg"
+	},
+	{
+		"id": 13,
+		"title": "Ethical Hacking",
+		"description": "Learn ethical hacking techniques and practices.",
+		"instructor": "Emily Davis",
+		"enrollmentCount": 40,
+		"start_date": "2023-08-15",
+		"end_date": "2023-10-30",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Ethical Hacking",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get an introduction to ethical hacking and its scope."
+			},
+			{
+				"id": 2,
+				"title": "Vulnerability Assessment",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn how to assess vulnerabilities in computer systems."
+			}
+		],
+		"photo": "https://example.com/ethical-hacking.jpg"
+	},
+	{
+		"id": 14,
+		"title": "iOS App Development",
+		"description": "Learn to build iOS applications using Swift.",
+		"instructor": "Michael Johnson",
+		"enrollmentCount": 30,
+		"start_date": "2023-09-15",
+		"end_date": "2023-12-31",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to iOS Development",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get started with iOS app development using Swift."
+			},
+			{
+				"id": 2,
+				"title": "User Interface Design for iOS",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn to design user interfaces for iOS applications."
+			}
+		],
+		"photo": "https://example.com/ios-app-development.jpg"
+	},
+	{
+		"id": 15,
+		"title": "Database Management",
+		"description": "Learn about database design, management, and SQL.",
+		"instructor": "Daniel Martinez",
+		"enrollmentCount": 25,
+		"start_date": "2023-10-01",
+		"end_date": "2023-12-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Relational Database Design",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn about relational database design principles."
+			},
+			{
+				"id": 2,
+				"title": "SQL Fundamentals",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Master SQL queries for database manipulation and retrieval."
+			}
+		],
+		"photo": "https://example.com/database-management.jpg"
+	},
+	{
+		"id": 16,
+		"title": "Digital Marketing",
+		"description": "Learn digital marketing strategies and techniques.",
+		"instructor": "Olivia Taylor",
+		"enrollmentCount": 20,
+		"start_date": "2023-10-15",
+		"end_date": "2023-12-31",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Digital Marketing",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get an overview of digital marketing and its channels."
+			},
+			{
+				"id": 2,
+				"title": "Search Engine Optimization",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn SEO techniques to improve website visibility."
+			}
+		],
+		"photo": "https://example.com/digital-marketing.jpg"
+	},
+	{
+		"id": 17,
+		"title": "C++ Programming",
+		"description": "Learn the C++ programming language and its features.",
+		"instructor": "Matthew Anderson",
+		"enrollmentCount": 45,
+		"start_date": "2023-08-01",
+		"end_date": "2023-09-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to C++",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get started with C++ programming language."
+			},
+			{
+				"id": 2,
+				"title": "Object-Oriented Programming in C++",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn object-oriented programming in C++."
+			}
+		],
+		"photo": "https://example.com/cpp-programming.jpg"
+	},
+	{
+		"id": 18,
+		"title": "Web Development with Angular",
+		"description": "Build web applications using the Angular framework.",
+		"instructor": "Ava Thomas",
+		"enrollmentCount": 30,
+		"start_date": "2023-09-01",
+		"end_date": "2023-12-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Getting Started with Angular",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn the basics of Angular framework and set up a project."
+			},
+			{
+				"id": 2,
+				"title": "Components and Services",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Understand Angular components, services, and data binding."
+			}
+		],
+		"photo": "https://example.com/angular-web-development.jpg"
+	},
+	{
+		"id": 19,
+		"title": "Artificial Intelligence Fundamentals",
+		"description": "Learn the fundamentals of artificial intelligence and its applications.",
+		"instructor": "John Doe",
+		"enrollmentCount": 25,
+		"start_date": "2023-10-15",
+		"end_date": "2023-12-31",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Artificial Intelligence",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get an overview of artificial intelligence and its subfields."
+			},
+			{
+				"id": 2,
+				"title": "Machine Learning Algorithms",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Explore various machine learning algorithms."
+			}
+		],
+		"photo": "https://example.com/artificial-intelligence.jpg"
+	},
+	{
+		"id": 20,
+		"title": "Cybersecurity Fundamentals",
+		"description": "Learn the fundamentals of cybersecurity and protect against threats.",
+		"instructor": "Jane Smith",
+		"enrollmentCount": 30,
+		"start_date": "2023-08-01",
+		"end_date": "2023-09-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Cybersecurity",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get an introduction to cybersecurity and its importance."
+			},
+			{
+				"id": 2,
+				"title": "Network Security",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn about securing computer networks and preventing attacks."
+			}
+		],
+		"photo": "https://example.com/cybersecurity-fundamentals.jpg"
+	},
+	{
+		"id": 21,
+		"title": "Data Visualization with Tableau",
+		"description": "Learn to create visualizations using Tableau software.",
+		"instructor": "Emily Davis",
+		"enrollmentCount": 40,
+		"start_date": "2023-09-15",
+		"end_date": "2023-12-31",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Tableau",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get started with Tableau software and its interface."
+			},
+			{
+				"id": 2,
+				"title": "Creating Visualizations",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn to create interactive visualizations using Tableau."
+			}
+		],
+		"photo": "https://example.com/data-visualization-tableau.jpg"
+	},
+	{
+		"id": 22,
+		"title": "Mobile Game Development",
+		"description": "Learn to develop games for mobile platforms.",
+		"instructor": "Michael Johnson",
+		"enrollmentCount": 35,
+		"start_date": "2023-08-15",
+		"end_date": "2023-10-30",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Game Development",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get started with game development concepts and tools."
+			},
+			{
+				"id": 2,
+				"title": "Game Design and Mechanics",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn about game design principles and mechanics."
+			}
+		],
+		"photo": "https://example.com/mobile-game-development.jpg"
+	},
+	{
+		"id": 23,
+		"title": "Digital Photography",
+		"description": "Master the art of digital photography.",
+		"instructor": "Daniel Martinez",
+		"enrollmentCount": 30,
+		"start_date": "2023-09-01",
+		"end_date": "2023-12-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Photography",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn the basics of digital photography and camera settings."
+			},
+			{
+				"id": 2,
+				"title": "Composition and Lighting",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Explore composition techniques and lighting in photography."
+			}
+		],
+		"photo": "https://example.com/digital-photography.jpg"
+	},
+	{
+		"id": 24,
+		"title": "Node.js Development",
+		"description": "Learn to build server-side applications with Node.js.",
+		"instructor": "Olivia Taylor",
+		"enrollmentCount": 25,
+		"start_date": "2023-10-15",
+		"end_date": "2023-12-31",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Node.js",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get started with Node.js and its core modules."
+			},
+			{
+				"id": 2,
+				"title": "Building RESTful APIs",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn to build RESTful APIs using Express.js framework."
+			}
+		],
+		"photo": "https://example.com/node-js-development.jpg"
+	},
+	{
+		"id": 25,
+		"title": "Digital Illustration",
+		"description": "Learn digital illustration techniques and create stunning artwork.",
+		"instructor": "Matthew Anderson",
+		"enrollmentCount": 20,
+		"start_date": "2023-08-01",
+		"end_date": "2023-09-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Digital Illustration",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get started with digital illustration software and tools."
+			},
+			{
+				"id": 2,
+				"title": "Color and Composition",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Explore color theory and composition techniques in digital illustration."
+			}
+		],
+		"photo": "https://example.com/digital-illustration.jpg"
+	},
+	{
+		"id": 26,
+		"title": "Python Web Scraping",
+		"description": "Learn to extract data from websites using Python.",
+		"instructor": "Ava Thomas",
+		"enrollmentCount": 45,
+		"start_date": "2023-09-15",
+		"end_date": "2023-12-31",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Web Scraping",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get started with web scraping and its applications."
+			},
+			{
+				"id": 2,
+				"title": "Scraping with BeautifulSoup",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn to scrape websites using the BeautifulSoup library."
+			}
+		],
+		"photo": "https://example.com/python-web-scraping.jpg"
+	},
+	{
+		"id": 27,
+		"title": "Unity Game Development",
+		"description": "Learn to develop games using the Unity game engine.",
+		"instructor": "David Johnson",
+		"enrollmentCount": 30,
+		"start_date": "2023-08-15",
+		"end_date": "2023-10-30",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Unity",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get started with the Unity game engine and its interface."
+			},
+			{
+				"id": 2,
+				"title": "Game Mechanics in Unity",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn about game mechanics and scripting in Unity."
+			}
+		],
+		"photo": "https://example.com/unity-game-development.jpg"
+	},
+	{
+		"id": 28,
+		"title": "Digital Marketing Analytics",
+		"description": "Learn to analyze and measure digital marketing performance.",
+		"instructor": "Sarah Williams",
+		"enrollmentCount": 25,
+		"start_date": "2023-09-01",
+		"end_date": "2023-12-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Digital Marketing Analytics",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get an overview of digital marketing analytics and its tools."
+			},
+			{
+				"id": 2,
+				"title": "Google Analytics for Marketing",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn to use Google Analytics for tracking marketing metrics."
+			}
+		],
+		"photo": "https://example.com/digital-marketing-analytics.jpg"
+	},
+	{
+		"id": 29,
+		"title": "Android App Development",
+		"description": "Learn to develop Android applications using Java or Kotlin.",
+		"instructor": "John Doe",
+		"enrollmentCount": 30,
+		"start_date": "2023-10-15",
+		"end_date": "2023-12-31",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Android Development",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get started with Android app development using Java or Kotlin."
+			},
+			{
+				"id": 2,
+				"title": "User Interface Design for Android",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn to design user interfaces for Android applications."
+			}
+		],
+		"photo": "https://example.com/android-app-development.jpg"
+	},
+	{
+		"id": 30,
+		"title": "Full-Stack Web Development",
+		"description": "Learn to build web applications using the MEAN stack.",
+		"instructor": "Jane Smith",
+		"enrollmentCount": 35,
+		"start_date": "2023-08-01",
+		"end_date": "2023-09-15",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Introduction to Full-Stack Development",
+				"duration": "2 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Get an overview of full-stack web development and its components."
+			},
+			{
+				"id": 2,
+				"title": "Building RESTful APIs with Node.js and Express",
+				"duration": "1.5 hours",
+				"video": "https://www.youtube.com/watch?v=OuoyXiP8E5Y",
+				"content": "Learn to build RESTful APIs using Node.js and Express framework."
+			}
+		],
+		"photo": "https://example.com/full-stack-web-development.jpg"
+	}
+]

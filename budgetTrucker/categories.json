@@ -1,0 +1,79 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "Groceries",
+			"description": "Expenses related to food and groceries"
+		},
+		{
+			"id": 2,
+			"name": "Transportation",
+			"description": "Expenses related to transportation and commuting"
+		},
+		{
+			"id": 3,
+			"name": "Housing",
+			"description": "Expenses related to rent, mortgage, and utilities"
+		},
+		{
+			"id": 4,
+			"name": "Entertainment",
+			"description": "Expenses related to entertainment and leisure activities"
+		},
+		{
+			"id": 5,
+			"name": "Healthcare",
+			"description": "Expenses related to healthcare and medical services"
+		},
+		{
+			"id": 6,
+			"name": "Education",
+			"description": "Expenses related to education and learning"
+		},
+		{
+			"id": 7,
+			"name": "Shopping",
+			"description": "Expenses related to shopping and retail"
+		},
+		{
+			"id": 8,
+			"name": "Travel",
+			"description": "Expenses related to travel and vacations"
+		},
+		{
+			"id": 9,
+			"name": "Utilities",
+			"description": "Expenses related to electricity, water, and other utilities"
+		},
+		{
+			"id": 10,
+			"name": "Debt Payments",
+			"description": "Expenses related to debt payments and loans"
+		},
+		{
+			"id": 11,
+			"name": "Charity",
+			"description": "Expenses related to charitable donations"
+		},
+		{
+			"id": 12,
+			"name": "Personal Care",
+			"description": "Expenses related to personal care products and services"
+		},
+		{
+			"id": 13,
+			"name": "Insurance",
+			"description": "Expenses related to insurance premiums"
+		},
+		{
+			"id": 14,
+			"name": "Subscriptions",
+			"description": "Expenses related to subscription services"
+		},
+		{
+			"id": 15,
+			"name": "Home Improvement",
+			"description": "Expenses related to home improvement and renovations"
+		}
+	]
+}

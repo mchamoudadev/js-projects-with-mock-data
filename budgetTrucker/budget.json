@@ -1,0 +1,124 @@
+{
+	"budgets": [
+		{
+			"id": 1,
+			"userId": 1,
+			"name": "Monthly Expenses",
+			"startDate": "2023-07-01",
+			"endDate": "2023-07-31",
+			"totalAmount": 2500
+		},
+		{
+			"id": 2,
+			"userId": 2,
+			"name": "Vacation Fund",
+			"startDate": "2023-08-01",
+			"endDate": "2023-08-31",
+			"totalAmount": 5000
+		},
+		{
+			"id": 3,
+			"userId": 3,
+			"name": "Home Renovation",
+			"startDate": "2023-07-15",
+			"endDate": "2023-10-15",
+			"totalAmount": 10000
+		},
+		{
+			"id": 4,
+			"userId": 4,
+			"name": "Emergency Fund",
+			"startDate": "2023-07-01",
+			"endDate": "2024-06-30",
+			"totalAmount": 10000
+		},
+		{
+			"id": 5,
+			"userId": 5,
+			"name": "Education Expenses",
+			"startDate": "2023-09-01",
+			"endDate": "2024-05-31",
+			"totalAmount": 8000
+		},
+		{
+			"id": 6,
+			"userId": 6,
+			"name": "Car Maintenance",
+			"startDate": "2023-07-01",
+			"endDate": "2023-12-31",
+			"totalAmount": 3000
+		},
+		{
+			"id": 7,
+			"userId": 7,
+			"name": "Entertainment Budget",
+			"startDate": "2023-07-01",
+			"endDate": "2023-07-31",
+			"totalAmount": 500
+		},
+		{
+			"id": 8,
+			"userId": 8,
+			"name": "Wedding Savings",
+			"startDate": "2023-07-01",
+			"endDate": "2024-12-31",
+			"totalAmount": 15000
+		},
+		{
+			"id": 9,
+			"userId": 9,
+			"name": "Healthcare Expenses",
+			"startDate": "2023-07-01",
+			"endDate": "2024-06-30",
+			"totalAmount": 6000
+		},
+		{
+			"id": 10,
+			"userId": 10,
+			"name": "Gifts and Celebrations",
+			"startDate": "2023-07-01",
+			"endDate": "2023-12-31",
+			"totalAmount": 2000
+		},
+		{
+			"id": 11,
+			"userId": 11,
+			"name": "Charity Donations",
+			"startDate": "2023-07-01",
+			"endDate": "2024-06-30",
+			"totalAmount": 3000
+		},
+		{
+			"id": 12,
+			"userId": 12,
+			"name": "Business Startup",
+			"startDate": "2023-07-01",
+			"endDate": "2024-12-31",
+			"totalAmount": 20000
+		},
+		{
+			"id": 13,
+			"userId": 13,
+			"name": "Travel Expenses",
+			"startDate": "2023-10-01",
+			"endDate": "2024-01-31",
+			"totalAmount": 4000
+		},
+		{
+			"id": 14,
+			"userId": 14,
+			"name": "Retirement Savings",
+			"startDate": "2023-07-01",
+			"endDate": "2050-12-31",
+			"totalAmount": 500000
+		},
+		{
+			"id": 15,
+			"userId": 15,
+			"name": "Hobby and Recreation",
+			"startDate": "2023-07-01",
+			"endDate": "2023-12-31",
+			"totalAmount": 1000
+		}
+	]
+}

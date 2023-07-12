@@ -1,0 +1,820 @@
+{
+  "customers": [
+    {
+      "id": "1001",
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "phone": "555-123-4567",
+      "address": "123 Main St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1001-001",
+          "order_date": "2022-01-01",
+          "total": 120.0,
+          "items": [
+            {
+              "item_id": "1001-001-001",
+              "name": "T-Shirt",
+              "quantity": 2,
+              "price": 30.0,
+              "image_url": "https://images.pexels.com/photos/1598504/pexels-photo-1598504.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1001-001-002",
+              "name": "Hat",
+              "quantity": 1,
+              "price": 60.0,
+              "image_url": "https://images.pexels.com/photos/374743/pexels-photo-374743.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        },
+        {
+          "order_id": "1001-002",
+          "order_date": "2022-01-15",
+          "total": 75.0,
+          "items": [
+            {
+              "item_id": "1001-002-001",
+              "name": "Mug",
+              "quantity": 2,
+              "price": 15.0,
+              "image_url": "https://images.pexels.com/photos/1004106/pexels-photo-1004106.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1001-002-002",
+              "name": "Keychain",
+              "quantity": 1,
+              "price": 45.0,
+              "image_url": "https://images.pexels.com/photos/814046/pexels-photo-814046.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1002",
+      "name": "Mary Johnson",
+      "email": "mary.johnson@example.com",
+      "phone": "555-234-5678",
+      "address": "456 Oak St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1002-001",
+          "order_date": "2022-01-03",
+          "total": 50.0,
+          "items": [
+            {
+              "item_id": "1002-001-001",
+              "name": "Sweater",
+              "quantity": 1,
+              "price": 50.0,
+              "image_url": "https://images.pexels.com/photos/1212989/pexels-photo-1212989.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1003",
+      "name": "David Lee",
+      "email": "david.lee@example.com",
+      "phone": "555-345-6789",
+      "address": "789 Elm St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1003-001",
+          "order_date": "2022-02-01",
+          "total": 90.0,
+          "items": [
+            {
+              "item_id": "1003-001-001",
+              "name": "Socks",
+              "quantity": 3,
+              "price": 10.0,
+              "image_url": "https://images.pexels.com/photos/1630150/pexels-photo-1630150.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1003-001-002",
+              "name": "Gloves",
+              "quantity": 1,
+              "price": 60.0,
+              "image_url": "https://images.pexels.com/photos/461402/pexels-photo-461402.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1004",
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "phone": "555-456-7890",
+      "address": "321 Oak St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1004-001",
+          "order_date": "2022-03-01",
+          "total": 45.0,
+          "items": [
+            {
+              "item_id": "1004-001-001",
+              "name": "Notebook",
+              "quantity": 2,
+              "price": 15.0,
+              "image_url": "https://images.pexels.com/photos/1630643/pexels-photo-1630643.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1004-001-002",
+              "name": "Pen",
+              "quantity": 1,
+              "price": 15.0,
+              "image_url": "https://images.pexels.com/photos/422612/pexels-photo-422612.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1005",
+      "name": "Michael Davis",
+      "email": "michael.davis@example.com",
+      "phone": "555-567-8901",
+      "address": "654 Main St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1005-001",
+          "order_date": "2022-03-15",
+          "total": 70.0,
+          "items": [
+            {
+              "item_id": "1005-001-001",
+              "name": "Headphones",
+              "quantity": 1,
+              "price": 50.0,
+              "image_url": "https://images.pexels.com/photos/374769/pexels-photo-374769.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1005-001-002",
+              "name": "Phone Case",
+              "quantity": 1,
+              "price": 20.0,
+              "image_url": "https://images.pexels.com/photos/306408/pexels-photo-306408.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1006",
+      "name": "Emily Brown",
+      "email": "emily.brown@example.com",
+      "phone": "555-678-9012",
+      "address": "987 Elm St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1006-001",
+          "order_date": "2022-04-01",
+          "total": 30.0,
+          "items": [
+            {
+              "item_id": "1006-001-001",
+              "name": "Water Bottle",
+              "quantity": 1,
+              "price": 30.0,
+              "image_url": "https://images.pexels.com/photos/1282307/pexels-photo-1282307.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        },
+        {
+          "order_id": "1006-002",
+          "order_date": "2022-04-15",
+          "total": 60.0,
+          "items": [
+            {
+              "item_id": "1006-002-001",
+              "name": "Sunglasses",
+              "quantity": 1,
+              "price": 30.0,
+              "image_url": "https://images.pexels.com/photos/428337/pexels-photo-428337.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1006-002-002",
+              "name": "Sunscreen",
+              "quantity": 2,
+              "price": 15.0,
+              "image_url": "https://images.pexels.com/photos/1191634/pexels-photo-1191634.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1007",
+      "name": "Daniel Johnson",
+      "email": "daniel.johnson@example.com",
+      "phone": "555-789-0123",
+      "address": "246 Oak St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1007-001",
+          "order_date": "2022-05-01",
+          "total": 80.0,
+          "items": [
+            {
+              "item_id": "1007-001-001",
+              "name": "Backpack",
+              "quantity": 1,
+              "price": 50.0,
+              "image_url": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1007-001-002",
+              "name": "Water Bottle",
+              "quantity": 2,
+              "price": 15.0,
+              "image_url": "https://images.pexels.com/photos/1282307/pexels-photo-1282307.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        },
+        {
+          "order_id": "1007-002",
+          "order_date": "2022-05-15",
+          "total": 65.0,
+          "items": [
+            {
+              "item_id": "1007-002-001",
+              "name": "T-Shirt",
+              "quantity": 2,
+              "price": 30.0,
+              "image_url": "https://images.pexels.com/photos/1598504/pexels-photo-1598504.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1007-002-002",
+              "name": "Hat",
+              "quantity": 1,
+              "price": 35.0,
+              "image_url": "https://images.pexels.com/photos/374743/pexels-photo-374743.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1008",
+      "name": "Jessica Thomas",
+      "email": "jessica.thomas@example.com",
+      "phone": "555-890-1234",
+      "address": "369 Elm St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1008-001",
+          "order_date": "2022-06-01",
+          "total": 110.0,
+          "items": [
+            {
+              "item_id": "1008-001-001",
+              "name": "Headphones",
+              "quantity": 1,
+              "price": 50.0,
+              "image_url": "https://images.pexels.com/photos/374769/pexels-photo-374769.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1008-001-002",
+              "name": "Phone Case",
+              "quantity": 1,
+              "price": 20.0,
+              "image_url": "https://images.pexels.com/photos/306408/pexels-photo-306408.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1008-001-003",
+              "name": "Water Bottle",
+              "quantity": 2,
+              "price": 15.0,
+              "image_url": "https://images.pexels.com/photos/1282307/pexels-photo-1282307.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1008-001-004",
+              "name": "Sunglasses",
+              "quantity": 1,
+              "price": 25.0,
+              "image_url": "https://images.pexels.com/photos/428337/pexels-photo-428337.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1009",
+      "name": "Christopher Brown",
+      "email": "christopher.brown@example.com",
+      "phone": "555-901-2345",
+      "address": "753 Oak St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1009-001",
+          "order_date": "2022-07-01",
+          "total": 75.0,
+          "items": [
+            {
+              "item_id": "1009-001-001",
+              "name": "Backpack",
+              "quantity": 1,
+              "price": 50.0,
+              "image_url": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1009-001-002",
+              "name": "Water Bottle",
+              "quantity": 2,
+              "price": 15.0,
+              "image_url": "https://images.pexels.com/photos/1282307/pexels-photo-1282307.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1009-001-003",
+              "name": "Sunglasses",
+              "quantity": 1,
+              "price": 10.0,
+              "image_url": "https://images.pexels.com/photos/428337/pexels-photo-428337.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1010",
+      "name": "Stephanie Garcia",
+      "email": "stephanie.garcia@example.com",
+      "phone": "555-234-5678",
+      "address": "135 Main St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1010-001",
+          "order_date": "2022-08-01",
+          "total": 25.0,
+          "items": [
+            {
+              "item_id": "1010-001-001",
+              "name": "Notebook",
+              "quantity": 1,
+              "price": 5.0,
+              "image_url": "https://images.pexels.com/photos/1630643/pexels-photo-1630643.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1010-001-002",
+              "name": "Pen",
+              "quantity": 5,
+              "price": 4.0,
+              "image_url": "https://images.pexels.com/photos/422612/pexels-photo-422612.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        },
+        {
+          "order_id": "1010-002",
+          "order_date": "2022-08-15",
+          "total": 40.0,
+          "items": [
+            {
+              "item_id": "1010-002-001",
+              "name": "T-Shirt",
+              "quantity": 2,
+              "price": 15.0,
+              "image_url": "https://images.pexels.com/photos/1598504/pexels-photo-1598504.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1010-002-002",
+              "name": "Hat",
+              "quantity": 1,
+              "price": 10.0,
+              "image_url": "https://images.pexels.com/photos/374743/pexels-photo-374743.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1010-002-003",
+              "name": "Water Bottle",
+              "quantity": 1,
+              "price": 15.0,
+              "image_url": "https://images.pexels.com/photos/1282307/pexels-photo-1282307.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1011",
+      "name": "Erica Rodriguez",
+      "email": "erica.rodriguez@example.com",
+      "phone": "555-678-9012",
+      "address": "246 Elm St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1011-001",
+          "order_date": "2022-07-10",
+          "total": 90.0,
+          "items": [
+            {
+              "item_id": "1011-001-001",
+              "name": "Running Shoes",
+              "quantity": 1,
+              "price": 75.0,
+              "image_url": "https://images.pexels.com/photos/1509427/pexels-photo-1509427.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1011-001-002",
+              "name": "Socks",
+              "quantity": 3,
+              "price": 5.0,
+              "image_url": "https://images.pexels.com/photos/3028996/pexels-photo-3028996.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1012",
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "phone": "555-345-6789",
+      "address": "789 Maple St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1012-001",
+          "order_date": "2022-09-01",
+          "total": 30.0,
+          "items": [
+            {
+              "item_id": "1012-001-001",
+              "name": "Pencils",
+              "quantity": 10,
+              "price": 3.0,
+              "image_url": "https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        },
+        {
+          "order_id": "1012-002",
+          "order_date": "2022-09-15",
+          "total": 50.0,
+          "items": [
+            {
+              "item_id": "1012-002-001",
+              "name": "Sweatshirt",
+              "quantity": 1,
+              "price": 30.0,
+              "image_url": "https://images.pexels.com/photos/1544703/pexels-photo-1544703.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1012-002-002",
+              "name": "Hat",
+              "quantity": 1,
+              "price": 10.0,
+              "image_url": "https://images.pexels.com/photos/374743/pexels-photo-374743.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1012-002-003",
+              "name": "Water Bottle",
+              "quantity": 1,
+              "price": 10.0,
+              "image_url": "https://images.pexels.com/photos/1282307/pexels-photo-1282307.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1013",
+      "name": "Ashley Davis",
+      "email": "ashley.davis@example.com",
+      "phone": "555-789-0123",
+      "address": "246 Oak St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1013-001",
+          "order_date": "2022-10-01",
+          "total": 15.0,
+          "items": [
+            {
+              "item_id": "1013-001-001",
+              "name": "Eraser",
+              "quantity": 5,
+              "price": 1.0,
+              "image_url": "https://images.pexels.com/photos/275755/pexels-photo-275755.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1013-001-002",
+              "name": "Pencil Sharpener",
+              "quantity": 1,
+              "price": 5.0,
+              "image_url": "https://images.pexels.com/photos/329556/pexels-photo-329556.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1014",
+      "name": "David Martinez",
+      "email": "david.martinez@example.com",
+      "phone": "555-890-1234",
+      "address": "135 Oak St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1014-001",
+          "order_date": "2022-11-01",
+          "total": 60.0,
+          "items": [
+            {
+              "item_id": "1014-001-001",
+              "name": "Running Shoes",
+              "quantity": 1,
+              "price": 50.0,
+              "image_url": "https://images.pexels.com/photos/1509427/pexels-photo-1509427.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1014-001-002",
+              "name": "Socks",
+              "quantity": 3,
+              "price": 5.0,
+              "image_url": "https://images.pexels.com/photos/3028996/pexels-photo-3028996.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1014-001-003",
+              "name": "Water Bottle",
+              "quantity": 1,
+              "price": 5.0,
+              "image_url": "https://images.pexels.com/photos/1282307/pexels-photo-1282307.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1015",
+      "name": "Jessica Hernandez",
+      "email": "jessica.hernandez@example.com",
+      "phone": "555-901-2345",
+      "address": "753 Main St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1015-001",
+          "order_date": "2022-12-01",
+          "total": 80.0,
+          "items": [
+            {
+              "item_id": "1015-001-001",
+              "name": "Backpack",
+              "quantity": 1,
+              "price": 50.0,
+              "image_url": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1015-001-002",
+              "name": "Water Bottle",
+              "quantity": 2,
+              "price": 15.0,
+              "image_url": "https://images.pexels.com/photos/1282307/pexels-photo-1282307.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1015-001-003",
+              "name": "Sunglasses",
+              "quantity": 1,
+              "price": 15.0,
+              "image_url": "https://images.pexels.com/photos/428337/pexels-photo-428337.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        },
+        {
+          "order_id": "1015-002",
+          "order_date": "2023-01-15",
+          "total": 25.0,
+          "items": [
+            {
+              "item_id": "1015-002-001",
+              "name": "Notebook",
+              "quantity": 2,
+              "price": 5.0,
+              "image_url": "https://images.pexels.com/photos/256468/pexels-photo-256468.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1015-002-002",
+              "name": "Pens",
+              "quantity": 2,
+              "price": 5.0,
+              "image_url": "https://images.pexels.com/photos/256465/pexels-photo-256465.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1015-002-003",
+              "name": "Highlighters",
+              "quantity": 1,
+              "price": 10.0,
+              "image_url": "https://images.pexels.com/photos/1089431/pexels-photo-1089431.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1016",
+      "name": "Karen Johnson",
+      "email": "karen.johnson@example.com",
+      "phone": "555-012-3456",
+      "address": "555 Elm St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1016-001",
+          "order_date": "2023-02-01",
+          "total": 35.0,
+          "items": [
+            {
+              "item_id": "1016-001-001",
+              "name": "Yoga Mat",
+              "quantity": 1,
+              "price": 25.0,
+              "image_url": "https://images.pexels.com/photos/356004/pexels-photo-356004.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1016-001-002",
+              "name": "Yoga Block",
+              "quantity": 1,
+              "price": 10.0,
+              "image_url": "https://images.pexels.com/photos/164429/pexels-photo-164429.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1017",
+      "name": "Michael Lee",
+      "email": "michael.lee@example.com",
+      "phone": "555-123-4567",
+      "address": "123 Maple St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1017-001",
+          "order_date": "2023-03-01",
+          "total": 20.0,
+          "items": [
+            {
+              "item_id": "1017-001-001",
+              "name": "T-Shirt",
+              "quantity": 1,
+              "price": 10.0,
+              "image_url": "https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1017-001-002",
+              "name": "Hat",
+              "quantity": 1,
+              "price": 10.0,
+              "image_url": "https://images.pexels.com/photos/1284399/pexels-photo-1284399.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        },
+        {
+          "order_id": "1017-002",
+          "order_date": "2023-04-15",
+          "total": 65.0,
+          "items": [
+            {
+              "item_id": "1017-002-001",
+              "name": "Sneakers",
+              "quantity": 1,
+              "price": 50.0,
+              "image_url": "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1017-002-002",
+              "name": "Socks",
+              "quantity": 3,
+              "price": 5.0,
+              "image_url": "https://images.pexels.com/photos/3028996/pexels-photo-3028996.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1017-002-003",
+              "name": "Water Bottle",
+              "quantity": 1,
+              "price": 10.0,
+              "image_url": "https://images.pexels.com/photos/1282307/pexels-photo-1282307.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1018",
+      "name": "Emily Brown",
+      "email": "emily.brown@example.com",
+      "phone": "555-234-5678",
+      "address": "789 Oak St, Anytown, USA",
+      "orders": []
+    },
+    {
+      "id": "1019",
+      "name": "William Taylor",
+      "email": "william.taylor@example.com",
+      "phone": "555-345-6789",
+      "address": "246 Maple St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1019-001",
+          "order_date": "2023-05-01",
+          "total": 40.0,
+          "items": [
+            {
+              "item_id": "1019-001-001",
+              "name": "Headphones",
+              "quantity": 1,
+              "price": 30.0,
+              "image_url": "https://images.pexels.com/photos/1840391/pexels-photo-1840391.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1019-001-002",
+              "name": "Phone Case",
+              "quantity": 1,
+              "price": 10.0,
+              "image_url": "https://images.pexels.com/photos/276594/pexels-photo-276594.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        },
+        {
+          "order_id": "1019-002",
+          "order_date": "2023-06-15",
+          "total": 30.0,
+          "items": [
+            {
+              "item_id": "1019-002-001",
+              "name": "T-Shirt",
+              "quantity": 2,
+              "price": 15.0,
+              "image_url": "https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1020",
+      "name": "Sophia Jones",
+      "email": "sophia.jones@example.com",
+      "phone": "555-456-7890",
+      "address": "567 Oak St, Anytown, USA",
+      "orders": [
+        {
+          "order_id": "1020-001",
+          "order_date": "2023-06-01",
+          "total": 25.0,
+          "items": [
+            {
+              "item_id": "1020-001-001",
+              "name": "Sunglasses",
+              "quantity": 1,
+              "price": 15.0,
+              "image_url": "https://images.pexels.com/photos/179740/pexels-photo-179740.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1020-001-002",
+              "name": "Water Bottle",
+              "quantity": 1,
+              "price": 10.0,
+              "image_url": "https://images.pexels.com/photos/1282307/pexels-photo-1282307.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        },
+        {
+          "order_id": "1020-002",
+          "order_date": "2023-07-05",
+          "total": 50.0,
+          "items": [
+            {
+              "item_id": "1020-002-001",
+              "name": "Backpack",
+              "quantity": 1,
+              "price": 40.0,
+              "image_url": "https://images.pexels.com/photos/3467678/pexels-photo-3467678.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1020-002-002",
+              "name": "Notebook",
+              "quantity": 1,
+              "price": 5.0,
+              "image_url": "https://images.pexels.com/photos/4500352/pexels-photo-4500352.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1020-002-003",
+              "name": "Pen",
+              "quantity": 3,
+              "price": 1.0,
+              "image_url": "https://images.pexels.com/photos/2125339/pexels-photo-2125339.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            },
+            {
+              "item_id": "1020-002-004",
+              "name": "Sticky Notes",
+              "quantity": 1,
+              "price": 4.0,
+              "image_url": "https://images.pexels.com/photos/2125343/pexels-photo-2125343.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

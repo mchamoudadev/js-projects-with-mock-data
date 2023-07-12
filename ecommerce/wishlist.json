@@ -1,0 +1,24 @@
+{
+	"wishlist": [
+		{
+			"customerId": "101",
+			"productIds": ["1", "3", "5"]
+		},
+		{
+			"customerId": "102",
+			"productIds": ["2", "4", "6"]
+		},
+		{
+			"customerId": "103",
+			"productIds": ["1", "4"]
+		},
+		{
+			"customerId": "104",
+			"productIds": ["3", "6", "7"]
+		},
+		{
+			"customerId": "105",
+			"productIds": ["2", "5"]
+		}
+	]
+}

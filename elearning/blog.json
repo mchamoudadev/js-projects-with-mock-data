@@ -1,0 +1,142 @@
+[
+	{
+		"id": 1,
+		"title": "Getting Started with JavaScript",
+		"author": "John Doe",
+		"date": "2023-07-01",
+		"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+	},
+	{
+		"id": 2,
+		"title": "CSS Best Practices for Web Development",
+		"author": "Jane Smith",
+		"date": "2023-07-05",
+		"content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+	},
+	{
+		"id": 3,
+		"title": "Introduction to Python Programming",
+		"author": "Michael Johnson",
+		"date": "2023-07-10",
+		"content": "Integer sed vestibulum leo. Phasellus eget ante eget nunc elementum convallis at non tellus."
+	},
+	{
+		"id": 4,
+		"title": "The Importance of Responsive Web Design",
+		"author": "Emily Davis",
+		"date": "2023-07-15",
+		"content": "Nullam ornare nunc nec posuere commodo. Sed malesuada neque et mauris placerat lobortis."
+	},
+	{
+		"id": 5,
+		"title": "Data Analysis with Pandas",
+		"author": "Daniel Martinez",
+		"date": "2023-07-20",
+		"content": "Curabitur suscipit ligula id sem tristique lobortis."
+	},
+	{
+		"id": 6,
+		"title": "Introduction to Machine Learning",
+		"author": "Olivia Taylor",
+		"date": "2023-07-25",
+		"content": "Fusce ultrices consectetur sapien, ac faucibus mi aliquet a."
+	},
+	{
+		"id": 7,
+		"title": "Mastering React.js",
+		"author": "Matthew Anderson",
+		"date": "2023-07-30",
+		"content": "Mauris ut justo vitae est fermentum efficitur."
+	},
+	{
+		"id": 8,
+		"title": "Fundamentals of UI/UX Design",
+		"author": "Ava Thomas",
+		"date": "2023-08-05",
+		"content": "Suspendisse at tellus non nisl efficitur bibendum."
+	},
+	{
+		"id": 9,
+		"title": "Java Programming Best Practices",
+		"author": "David Johnson",
+		"date": "2023-08-10",
+		"content": "Phasellus ultrices metus vitae sapien eleifend, eu fermentum erat volutpat."
+	},
+	{
+		"id": 10,
+		"title": "Cloud Computing: An Introduction",
+		"author": "Sarah Williams",
+		"date": "2023-08-15",
+		"content": "Donec vitae orci dapibus, rhoncus lacus id, dictum lorem."
+	},
+	{
+		"id": 11,
+		"title": "Building Modern Web Applications with Angular",
+		"author": "John Doe",
+		"date": "2023-08-20",
+		"content": "Sed vitae enim ac nisl vestibulum cursus."
+	},
+	{
+		"id": 12,
+		"title": "Introduction to Data Science",
+		"author": "Jane Smith",
+		"date": "2023-08-25",
+		"content": "Fusce non quam in nulla congue interdum."
+	},
+	{
+		"id": 13,
+		"title": "Ethical Hacking Techniques",
+		"author": "Michael Johnson",
+		"date": "2023-08-30",
+		"content": "Suspendisse sit amet nunc id tellus rhoncus vestibulum."
+	},
+	{
+		"id": 14,
+		"title": "iOS App Development with Swift",
+		"author": "Emily Davis",
+		"date": "2023-09-05",
+		"content": "Nulla vel odio eu enim auctor rhoncus ut sed nunc."
+	},
+	{
+		"id": 15,
+		"title": "Introduction to Database Management",
+		"author": "Daniel Martinez",
+		"date": "2023-09-10",
+		"content": "Quisque lobortis nulla ac justo ultrices, ac volutpat velit pharetra."
+	},
+	{
+		"id": 16,
+		"title": "Digital Marketing Strategies for Success",
+		"author": "Olivia Taylor",
+		"date": "2023-09-15",
+		"content": "Proin varius sapien sed fringilla cursus."
+	},
+	{
+		"id": 17,
+		"title": "C++ Programming: From Basics to Advanced",
+		"author": "Matthew Anderson",
+		"date": "2023-09-20",
+		"content": "Duis fermentum neque eu ipsum dignissim efficitur."
+	},
+	{
+		"id": 18,
+		"title": "Web Development with Flask",
+		"author": "Ava Thomas",
+		"date": "2023-09-25",
+		"content": "Vivamus posuere massa a mi bibendum vulputate."
+	},
+	{
+		"id": 19,
+		"title": "Introduction to Artificial Intelligence",
+		"author": "David Johnson",
+		"date": "2023-09-30",
+		"content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+	},
+	{
+		"id": 20,
+		"title": "Fundamentals of Cybersecurity",
+		"author": "Sarah Williams",
+		"date": "2023-10-05",
+		"content": "Fusce ac lectus id diam ultricies rhoncus."
+	}
+]
